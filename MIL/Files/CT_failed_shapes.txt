@@ -1,0 +1,18 @@
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5158/04-15-2004-NA-CT RENAL Mass-29056/5.000000-ArterialPhase  5.0  B20f-66551
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5162/10-06-2003-NA-CT RENAL Mass-58198/4.000000-Arterial Phase  5.0  SPO-02031
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5163/11-18-2003-NA-CT ABDOMEN PELVIS W CONT-49089/6.000000-abd 75 second delay 5.0  SPO-04197
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5553/04-22-2004-NA-CT RENAL Mass-42997/4.000000-Arterial Phase  5.0  SPO-03730
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-A54E/02-02-2005-NA-CT RENAL Mass-86462/4.000000-Arterial Phase  5.0  SPO-34744
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5158/04-15-2004-NA-CT RENAL Mass-29056/5.000000-ArterialPhase  5.0  B20f-66551
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5162/10-06-2003-NA-CT RENAL Mass-58198/4.000000-Arterial Phase  5.0  SPO-02031
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5163/11-18-2003-NA-CT ABDOMEN PELVIS W CONT-49089/6.000000-abd 75 second delay 5.0  SPO-04197
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5553/04-22-2004-NA-CT RENAL Mass-42997/4.000000-Arterial Phase  5.0  SPO-03730
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-A54E/02-02-2005-NA-CT RENAL Mass-86462/4.000000-Arterial Phase  5.0  SPO-34744
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5158/04-15-2004-NA-CT RENAL Mass-29056/5.000000-ArterialPhase  5.0  B20f-66551
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5162/10-06-2003-NA-CT RENAL Mass-58198/4.000000-Arterial Phase  5.0  SPO-02031
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5163/11-18-2003-NA-CT ABDOMEN PELVIS W CONT-49089/6.000000-abd 75 second delay 5.0  SPO-04197
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-5553/04-22-2004-NA-CT RENAL Mass-42997/4.000000-Arterial Phase  5.0  SPO-03730
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-A54E/02-02-2005-NA-CT RENAL Mass-86462/4.000000-Arterial Phase  5.0  SPO-34744
+/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-15-2008-NA-CT ABDOMEN PELVIS WITH-95918/1.000000-NA-81581
+/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01524/07-28-2009-NA-06. Chest Abdomen CE-26101/701.000000-Display ABDOMEN-90135
+/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6088/02-26-1995-NA-Abdomen083TypeICTUDoseSaving Adult-94974/602.000000-VR1-45791

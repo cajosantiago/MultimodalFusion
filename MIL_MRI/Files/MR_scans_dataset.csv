@@ -1,0 +1,2445 @@
+case_id,File Location,vital_status_12
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/11.000000-Ax DWI B20800 BH-26445,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/1100.000000-Apparent Diffusion Coefficient mm2s-01197,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/1101.000000-Exponential Apparent Diffusion Coefficient-09707,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/12.000000-Ax T2 FS RTr PROPELLER-56298,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/14.000000-WATER Ax LAVA-FlexC 20min BH-99549,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/1400.000000-FAT Ax LAVA-FlexC 20min BH-23223,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/1401.000000-InPhase Ax LAVA-FlexC 20min BH-09608,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/1402.000000-OutPhase Ax LAVA-FlexC 20min BH-40079,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/4.000000-Ax SSFSE BH-12736,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/7.000000-WATER Ax LAVA- Flex Art 70sec 2min-06816,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/700.000000-FAT Ax LAVA- Flex Art 70sec 2min-28577,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/701.000000-InPhase Ax LAVA- Flex Art 70sec 2min-31451,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/702.000000-OutPhase Ax LAVA- Flex Art 70sec 2min-87356,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/703.000000-FT WATER Ax LAVA- Flex Art 70sec 2min-77339,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/9.000000-WATER Ax LAVA-Flex C 5MIN-72716,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/900.000000-FAT Ax LAVA-Flex C 5MIN-56012,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/901.000000-InPhase Ax LAVA-Flex C 5MIN-02877,1
+C3L-00610,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00610/11-10-2008-NA-LIVER-61498/902.000000-OutPhase Ax LAVA-Flex C 5MIN-89398,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00610,Not applicable,1
+C3L-00800,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00800/11-30-2008-NA-MRI ABDOMEN WITH AND WITHOUT CONTRAST-44367/10.000000-AXIAL LAVA BH 5 MIN-90764,1
+C3L-00800,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00800/11-30-2008-NA-MRI ABDOMEN WITH AND WITHOUT CONTRAST-44367/4.000000-Ax T2 SSFSE BH-67308,1
+C3L-00800,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00800/11-30-2008-NA-MRI ABDOMEN WITH AND WITHOUT CONTRAST-44367/5.000000-Ax T2 FRFSE BH FatSat-09950,1
+C3L-00800,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00800/11-30-2008-NA-MRI ABDOMEN WITH AND WITHOUT CONTRAST-44367/8.000000-AXIAL LAVA BH 1 MIN-71289,1
+C3L-00800,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3L-00800/11-30-2008-NA-MRI ABDOMEN WITH AND WITHOUT CONTRAST-44367/9.000000-AXIAL  LAVA BH 3MIN-07033,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3L-00800,Not applicable,1
+C3N-01808,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01808/06-01-2010-NA-MRI ABDOMEN W AND WO GADOLINIUM-74237/10.000000-VIBE T1 FS POST2-14497,1
+C3N-01808,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01808/06-01-2010-NA-MRI ABDOMEN W AND WO GADOLINIUM-74237/11.000000-VIBE T1 FS POST3-84560,1
+C3N-01808,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01808/06-01-2010-NA-MRI ABDOMEN W AND WO GADOLINIUM-74237/12.000000-VIBE POST 2 MINUTE DELAY-87709,1
+C3N-01808,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01808/06-01-2010-NA-MRI ABDOMEN W AND WO GADOLINIUM-74237/13.000000-SUBS11-S81-15723,1
+C3N-01808,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01808/06-01-2010-NA-MRI ABDOMEN W AND WO GADOLINIUM-74237/15.000000-SUBS12-S81-43192,1
+C3N-01808,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01808/06-01-2010-NA-MRI ABDOMEN W AND WO GADOLINIUM-74237/16.000000-VIBE POST-25106,1
+C3N-01808,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01808/06-01-2010-NA-MRI ABDOMEN W AND WO GADOLINIUM-74237/5.000000-T1 FLASH AX BH - IN  OUT 4MM KIDNEYS-42581,1
+C3N-01808,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01808/06-01-2010-NA-MRI ABDOMEN W AND WO GADOLINIUM-74237/6.000000-T1 FLASH AX BH - IN  OUT ABD-27302,1
+C3N-01808,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01808/06-01-2010-NA-MRI ABDOMEN W AND WO GADOLINIUM-74237/7.000000-T2 AXIAL FS-06404,1
+C3N-01808,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-01808/06-01-2010-NA-MRI ABDOMEN W AND WO GADOLINIUM-74237/9.000000-VIBE T1 FS POST1-89494,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-01808,Not applicable,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/4.000000-BH Ax T2 FIESTA FATSAT Asset-54589,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/5.000000-Ax T1 DualEcho outin Phase-97241,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/6.000000-BH Ax T2 FIESTA FATSAT Asset-46165,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/7.000000-Resp- Ax DWI B200-58345,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/900.000000-BH c-AxT1 LAVA DYNAMICZNA-23311,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/901.000000-Ph1BH c-AxT1 LAVA DYNAMICZNA-73099,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/902.000000-Ph2BH c-AxT1 LAVA DYNAMICZNA-54690,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/903.000000-Ph3BH c-AxT1 LAVA DYNAMICZNA-82522,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/904.000000-Ph4BH c-AxT1 LAVA DYNAMICZNA-63406,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/905.000000-Ph5BH c-AxT1 LAVA DYNAMICZNA-68420,1
+C3N-02262,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02262/08-17-2000-NA-MR JB-70639/906.000000-Ph6BH c-AxT1 LAVA DYNAMICZNA-44380,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02262,Not applicable,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-03365/28.000000-T1 FS AXIAL POST - BLADDER-12097,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-03365/4.000000-T1 AXIAL - BLADDER-26665,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-03365/5.000000-T2 AXIAL - BLADDER-48930,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-03365/6.000000-T1 FLASH AXIAL BH ABD-96858,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-03365/8.000000-T1 FLASH AXIAL BH ABD REPEAT-20473,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-67402/16.000000-T1 FLASH AX BH - IN  OUT 4MM KIDNEY-97506,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-67402/17.000000-T1 FLASH AX BH - IN  OUT ABD-98584,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-67402/19.000000-T2 AXIAL FS mbh-94504,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-67402/22.000000-VIBE T1 FS POST1-36187,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-67402/23.000000-VIBE T1 FS POST2-40717,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-67402/24.000000-VIBE T1 FS POST3-92602,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-67402/25.000000-VIBE POST 2 MINUTE DELAY-00661,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-67402/29.000000-VIBE POST-57915,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-67402/30.000000-SUBS25-S211-57561,1
+C3N-02439,/home/csantiago/Datasets/Radiology-CPTAC/CPTAC-CCRCC/C3N-02439/10-13-2010-NA-PELVISPELVIS-67402/31.000000-SUBS29-S211-95587,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+C3N-02439,Not applicable,1
+TCGA-B0-4821,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4821/11-10-1984-NA-ABDOMEN-84813/13.000000-ax fatsat c abd-80452,1
+TCGA-B0-4821,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4821/11-10-1984-NA-ABDOMEN-84813/2.000000-ax in phase ABD-43657,1
+TCGA-B0-4821,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4821/11-10-1984-NA-ABDOMEN-84813/3.000000-FRFSEOPT-77708,1
+TCGA-B0-4821,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4821/11-10-1984-NA-ABDOMEN-84813/4.000000-ax ssfse-42693,1
+TCGA-B0-4821,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4821/11-10-1984-NA-ABDOMEN-84813/5.000000-ax gre-89995,1
+TCGA-B0-4821,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4821/11-10-1984-NA-ABDOMEN-84813/6.000000-ax in phase PELVIS-88365,1
+TCGA-B0-4821,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4821/11-10-1984-NA-ABDOMEN-84813/7.000000-FRFSEOPT PELVIS-89497,1
+TCGA-B0-4821,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4821/11-10-1984-NA-ABDOMEN-84813/8.000000-ax ssfse PELVIS-21541,1
+TCGA-B0-4821,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4821/11-10-1984-NA-ABDOMEN-84813/9.000000-ax gre PELVIS-88325,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4821,Not applicable,1
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/10.000000-ax dynamic c-71218,0
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/237.000000-PJN-93328,0
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/238.000000-PJN-92852,0
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/239.000000-PJN-79745,0
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/3.000000-ax inout phase-23553,0
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/4.000000-FRFSEOPT-30647,0
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/5.000000-FRFSEOPT-29309,0
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/6.000000-ax in PHASE-68655,0
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/7.000000-FAME Thin slice-93046,0
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/8.000000-FAME Thin slice-70544,0
+TCGA-B0-4849,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-4849/12-06-1986-NA-ABDOMENPELVIS-25474/9.000000-FAME Thin slice-16092,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-4849,Not applicable,0
+TCGA-B0-5085,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5085/07-05-1987-NA-MRI ABDOMEN WWO CONTR-60008/2.000000-FRFSEOPT AXIAL-59110,1
+TCGA-B0-5085,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5085/07-05-1987-NA-MRI ABDOMEN WWO CONTR-60008/3.000000-ax ssfse-95562,1
+TCGA-B0-5085,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5085/07-05-1987-NA-MRI ABDOMEN WWO CONTR-60008/4.000000-ax inout phase-14613,1
+TCGA-B0-5085,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5085/07-05-1987-NA-MRI ABDOMEN WWO CONTR-60008/5.000000-ax gre-72014,1
+TCGA-B0-5085,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5085/07-05-1987-NA-MRI ABDOMEN WWO CONTR-60008/6.000000-3d fame Special-55396,1
+TCGA-B0-5085,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5085/07-05-1987-NA-MRI ABDOMEN WWO CONTR-60008/7.000000-3d fame Special-67468,1
+TCGA-B0-5085,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5085/07-05-1987-NA-MRI ABDOMEN WWO CONTR-60008/8.000000-3d fame Special-92606,1
+TCGA-B0-5085,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5085/07-05-1987-NA-MRI ABDOMEN WWO CONTR-60008/9.000000-3d fame Special-10061,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5085,Not applicable,1
+TCGA-B0-5106,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5106/04-11-1987-NA-NA-14123/2.000000-RENALST1AXIALBREATHHOLD-42721,1
+TCGA-B0-5106,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5106/04-11-1987-NA-NA-57376/10.000000-MIPSeries000810120844-52711,1
+TCGA-B0-5106,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5106/04-11-1987-NA-NA-57376/5.000000-RENALSBRIGHTBLOODAXIALS-56976,1
+TCGA-B0-5106,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5106/04-11-1987-NA-NA-57376/6.000000-RENALSRENALSMASK-06551,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5106,Not applicable,1
+TCGA-B0-5712,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5712/03-05-1987-NA-KIDNEYS-72228/2.000000-FRFSEOPT-38127,1
+TCGA-B0-5712,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5712/03-05-1987-NA-KIDNEYS-72228/3.000000-ax in PHASE-13059,1
+TCGA-B0-5712,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B0-5712/03-05-1987-NA-KIDNEYS-72228/7.000000-ax dynamic c-86871,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B0-5712,Not applicable,1
+TCGA-B8-4143,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-4143/10-13-1995-NA-MRI ABDOMEN PELVIS WWO CONT-06267/13.000000-LIVER-PELVIST1FL2DAXIAL-53372,1
+TCGA-B8-4143,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-4143/10-13-1995-NA-MRI ABDOMEN PELVIS WWO CONT-06267/15.000000-LIVER-PELVISHASTEAXIALP-98058,1
+TCGA-B8-4143,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-4143/10-13-1995-NA-MRI ABDOMEN PELVIS WWO CONT-06267/3.000000-LIVER-KIDNEYHASTEAXIALF-26614,1
+TCGA-B8-4143,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-4143/10-13-1995-NA-MRI ABDOMEN PELVIS WWO CONT-06267/4.000000-LIVER-GAD-ENHANCEMENTT1F-56022,1
+TCGA-B8-4143,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-4143/10-13-1995-NA-MRI ABDOMEN PELVIS WWO CONT-06267/5.000000-LIVER-KIDNEYTIFL2DAXIAL-85100,1
+TCGA-B8-4143,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-4143/10-13-1995-NA-MRI ABDOMEN PELVIS WWO CONT-06267/6.000000-LIVER-KIDNEYTIFL2DAXIAL-19331,1
+TCGA-B8-4143,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-4143/10-13-1995-NA-MRI ABDOMEN PELVIS WWO CONT-06267/7.000000-LIVER-KIDNEYTIFL2DAXIAL-39186,1
+TCGA-B8-4143,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-4143/10-13-1995-NA-MRI ABDOMEN PELVIS WWO CONT-06267/8.000000-LIVER-KIDNEYTIFL2DAXIAL-33004,1
+TCGA-B8-4143,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-B8-4143/10-13-1995-NA-MRI ABDOMEN PELVIS WWO CONT-06267/9.000000-LIVER-KIDNEYTIFL2DAXIAL-62975,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-B8-4143,Not applicable,1
+TCGA-BP-4170,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4170/01-13-1987-NA-MR ABDOMEN WWO CONTRAST-48952/100.000000-Axial T1 post-68493,1
+TCGA-BP-4170,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4170/01-13-1987-NA-MR ABDOMEN WWO CONTRAST-48952/101.000000-Axial T1 post-34945,1
+TCGA-BP-4170,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4170/01-13-1987-NA-MR ABDOMEN WWO CONTRAST-48952/102.000000-Axial T1 post-91826,1
+TCGA-BP-4170,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4170/01-13-1987-NA-MR ABDOMEN WWO CONTRAST-48952/103.000000-Axial T1 post-60961,1
+TCGA-BP-4170,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4170/01-13-1987-NA-MR ABDOMEN WWO CONTRAST-48952/104.000000-9471004-94768-03809,1
+TCGA-BP-4170,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4170/01-13-1987-NA-MR ABDOMEN WWO CONTRAST-48952/4.000000-Axial MRCP thin-82757,1
+TCGA-BP-4170,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4170/01-13-1987-NA-MR ABDOMEN WWO CONTRAST-48952/5.000000-Axial T2 fat sat-77398,1
+TCGA-BP-4170,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4170/01-13-1987-NA-MR ABDOMEN WWO CONTRAST-48952/6.000000-Axial inout phase-60956,1
+TCGA-BP-4170,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4170/01-13-1987-NA-MR ABDOMEN WWO CONTRAST-48952/8.000000-Axial flow sensitive post-71556,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4170,Not applicable,1
+TCGA-BP-4331,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4331/06-08-1986-NA-MR ABDOMEN WWO CONTRAST-22953/10.000000-Axial T1 post-03586,1
+TCGA-BP-4331,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4331/06-08-1986-NA-MR ABDOMEN WWO CONTRAST-22953/2.000000-Axial T1 in-phase-63709,1
+TCGA-BP-4331,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4331/06-08-1986-NA-MR ABDOMEN WWO CONTRAST-22953/3.000000-Axial T2 fat sat-29723,1
+TCGA-BP-4331,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4331/06-08-1986-NA-MR ABDOMEN WWO CONTRAST-22953/4.000000-Axial T2-54194,1
+TCGA-BP-4331,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4331/06-08-1986-NA-MR ABDOMEN WWO CONTRAST-22953/6.000000-Axial flow sensitive-49130,1
+TCGA-BP-4331,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4331/06-08-1986-NA-MR ABDOMEN WWO CONTRAST-22953/7.000000-Axial T1 post-95398,1
+TCGA-BP-4331,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4331/06-08-1986-NA-MR ABDOMEN WWO CONTRAST-22953/8.000000-Axial T1 post-60696,1
+TCGA-BP-4331,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4331/06-08-1986-NA-MR ABDOMEN WWO CONTRAST-22953/9.000000-Axial T1 post-04758,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4331,Not applicable,1
+TCGA-BP-4335,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4335/09-30-1986-NA-MR ABDOMEN WWO CONTRAST-77623/101.000000-Axial T1 post-84899,1
+TCGA-BP-4335,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4335/09-30-1986-NA-MR ABDOMEN WWO CONTRAST-77623/102.000000-Axial T1 post-44178,1
+TCGA-BP-4335,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4335/09-30-1986-NA-MR ABDOMEN WWO CONTRAST-77623/103.000000-Axial T1 post-91817,1
+TCGA-BP-4335,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4335/09-30-1986-NA-MR ABDOMEN WWO CONTRAST-77623/104.000000-Axial T1 post-57396,1
+TCGA-BP-4335,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4335/09-30-1986-NA-MR ABDOMEN WWO CONTRAST-77623/2.000000-Axial T1 in-phase-61970,1
+TCGA-BP-4335,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4335/09-30-1986-NA-MR ABDOMEN WWO CONTRAST-77623/3.000000-Axial T2 fat sat-41759,1
+TCGA-BP-4335,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4335/09-30-1986-NA-MR ABDOMEN WWO CONTRAST-77623/5.000000-Axial T1-00743,1
+TCGA-BP-4335,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4335/09-30-1986-NA-MR ABDOMEN WWO CONTRAST-77623/6.000000-Axial T2-35935,1
+TCGA-BP-4335,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4335/09-30-1986-NA-MR ABDOMEN WWO CONTRAST-77623/8.000000-Axial flow sensitive-69784,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4335,Not applicable,1
+TCGA-BP-4349,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4349/07-11-1988-NA-MR RENAL PROTOCOL WWO CONTRAST-92674/100.000000-NA-37584,1
+TCGA-BP-4349,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4349/07-11-1988-NA-MR RENAL PROTOCOL WWO CONTRAST-92674/101.000000-NA-46137,1
+TCGA-BP-4349,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4349/07-11-1988-NA-MR RENAL PROTOCOL WWO CONTRAST-92674/102.000000-NA-18203,1
+TCGA-BP-4349,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4349/07-11-1988-NA-MR RENAL PROTOCOL WWO CONTRAST-92674/105.000000-508410073-5084873-08976,1
+TCGA-BP-4349,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4349/07-11-1988-NA-MR RENAL PROTOCOL WWO CONTRAST-92674/106.000000-508410257-5084857-43428,1
+TCGA-BP-4349,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4349/07-11-1988-NA-MR RENAL PROTOCOL WWO CONTRAST-92674/5.000000-Axial T1 inout phase-71128,1
+TCGA-BP-4349,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4349/07-11-1988-NA-MR RENAL PROTOCOL WWO CONTRAST-92674/6.000000-Axial T2-58784,1
+TCGA-BP-4349,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4349/07-11-1988-NA-MR RENAL PROTOCOL WWO CONTRAST-92674/9.000000-Timing run-08507,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4349,Not applicable,1
+TCGA-BP-4351,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4351/07-15-1990-NA-FORFILE CD MR ABDOMEN-41767/10.000000-POST2 GAD T1-66436,1
+TCGA-BP-4351,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4351/07-15-1990-NA-FORFILE CD MR ABDOMEN-41767/11.000000-POST Ax FIRM non BH-51782,1
+TCGA-BP-4351,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4351/07-15-1990-NA-FORFILE CD MR ABDOMEN-41767/12.000000-POST3 GAD T1-45078,1
+TCGA-BP-4351,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4351/07-15-1990-NA-FORFILE CD MR ABDOMEN-41767/1300.000000-PJN-09659,1
+TCGA-BP-4351,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4351/07-15-1990-NA-FORFILE CD MR ABDOMEN-41767/1500.000000-PJN-11728,1
+TCGA-BP-4351,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4351/07-15-1990-NA-FORFILE CD MR ABDOMEN-41767/3.000000-Ax T2 FRFSE RTr FatSAT-30613,1
+TCGA-BP-4351,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4351/07-15-1990-NA-FORFILE CD MR ABDOMEN-41767/4.000000-Ax Dualecho FSPGR BH-89425,1
+TCGA-BP-4351,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4351/07-15-1990-NA-FORFILE CD MR ABDOMEN-41767/5.000000-Ax T2 SSFSE BH TE 90-84661,1
+TCGA-BP-4351,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4351/07-15-1990-NA-FORFILE CD MR ABDOMEN-41767/6.000000-Ax FIRM non BH-91089,1
+TCGA-BP-4351,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4351/07-15-1990-NA-FORFILE CD MR ABDOMEN-41767/9.000000-POST1 GAD T1-79350,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4351,Not applicable,1
+TCGA-BP-4760,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4760/05-13-1988-NA-MR ABDOMEN WWO CONTRAST-36773/10.000000-Axial T1 post-84216,1
+TCGA-BP-4760,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4760/05-13-1988-NA-MR ABDOMEN WWO CONTRAST-36773/102.000000-25911821-25911721-85700,1
+TCGA-BP-4760,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4760/05-13-1988-NA-MR ABDOMEN WWO CONTRAST-36773/11.000000-Axial T1 post-53499,1
+TCGA-BP-4760,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4760/05-13-1988-NA-MR ABDOMEN WWO CONTRAST-36773/12.000000-Axial flow sensitive-59008,1
+TCGA-BP-4760,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4760/05-13-1988-NA-MR ABDOMEN WWO CONTRAST-36773/3.000000-Axial T1 in-phase-59521,1
+TCGA-BP-4760,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4760/05-13-1988-NA-MR ABDOMEN WWO CONTRAST-36773/4.000000-Axial T2 fat sat-82025,1
+TCGA-BP-4760,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4760/05-13-1988-NA-MR ABDOMEN WWO CONTRAST-36773/5.000000-Axial T2-55176,1
+TCGA-BP-4760,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4760/05-13-1988-NA-MR ABDOMEN WWO CONTRAST-36773/7.000000-Axial T1-40963,1
+TCGA-BP-4760,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4760/05-13-1988-NA-MR ABDOMEN WWO CONTRAST-36773/8.000000-Axial T1 post-49891,1
+TCGA-BP-4760,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4760/05-13-1988-NA-MR ABDOMEN WWO CONTRAST-36773/9.000000-Axial T1 post-79503,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4760,Not applicable,1
+TCGA-BP-4762,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4762/04-02-1988-NA-MR ABDOMEN WWO CONTRAST-40242/10.000000-Ax T1 FAME  POST DELAY-49341,1
+TCGA-BP-4762,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4762/04-02-1988-NA-MR ABDOMEN WWO CONTRAST-40242/11.000000-Ax T1 FAME  POST DELAY-63942,1
+TCGA-BP-4762,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4762/04-02-1988-NA-MR ABDOMEN WWO CONTRAST-40242/12.000000-Ax T1 FAME  POST DELAY-32552,1
+TCGA-BP-4762,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4762/04-02-1988-NA-MR ABDOMEN WWO CONTRAST-40242/13.000000-Axial flow sensitive post-67139,1
+TCGA-BP-4762,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4762/04-02-1988-NA-MR ABDOMEN WWO CONTRAST-40242/2.000000-Axial inout phase-63729,1
+TCGA-BP-4762,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4762/04-02-1988-NA-MR ABDOMEN WWO CONTRAST-40242/3.000000-Axial T2 fat sat-37191,1
+TCGA-BP-4762,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4762/04-02-1988-NA-MR ABDOMEN WWO CONTRAST-40242/5.000000-Axial MRCP thin-96057,1
+TCGA-BP-4762,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4762/04-02-1988-NA-MR ABDOMEN WWO CONTRAST-40242/7.000000-Ax T1 FAME-57453,1
+TCGA-BP-4762,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4762/04-02-1988-NA-MR ABDOMEN WWO CONTRAST-40242/9.000000-Ax T1 FAME  POST-45661,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4762,Not applicable,1
+TCGA-BP-4787,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4787/07-18-1990-NA-FORFILE MR ABDOMEN-89360/12.000000-AXIAL 2D FSPGR IN FAT SAT-29273,1
+TCGA-BP-4787,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4787/07-18-1990-NA-FORFILE MR ABDOMEN-89360/4.000000-AXIAL T2 FRFSE BREATHHELD 90T-41394,1
+TCGA-BP-4787,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4787/07-18-1990-NA-FORFILE MR ABDOMEN-89360/5.000000-AXIAL FSPGR DUAL ECHO-25558,1
+TCGA-BP-4787,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4787/07-18-1990-NA-FORFILE MR ABDOMEN-89360/7.000000-AX THIN DO  2 SETS THRU PANC-69682,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4787,Not applicable,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/10.000000-Axial 3D T1 post fat sat-65147,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/100.000000-15963993-15963893-74417,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/101.000000-159631092-15963892-53080,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/102.000000-159631196-15963896-45937,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/11.000000-Axial 3D T1 post fat sat-08164,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/12.000000-Axial Steady State-98657,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/13.000000-Axial flow sensitive-68876,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/3.000000-Axial T1 inout phase-03257,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/4.000000-Axial T2-76668,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/6.000000-Axial diffusion 500-71476,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/7.000000-Axial diffusion 1000-38356,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/8.000000-Axial 3D T1 fat sat-41721,1
+TCGA-BP-4795,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4795/11-17-1990-NA-MR RENAL PROTOCOL WWO CONTRAST-43224/9.000000-Axial 3D T1 post fat sat-89572,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4795,Not applicable,1
+TCGA-BP-4799,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4799/04-22-1991-NA-MR RENAL PROTOCOL WO CONTRAST-43648/10.000000-Axial 3D T1 fat sat-85396,1
+TCGA-BP-4799,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4799/04-22-1991-NA-MR RENAL PROTOCOL WO CONTRAST-43648/11.000000-Axial Steady State-31825,1
+TCGA-BP-4799,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4799/04-22-1991-NA-MR RENAL PROTOCOL WO CONTRAST-43648/13.000000-Axial flow sensitive-95455,1
+TCGA-BP-4799,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4799/04-22-1991-NA-MR RENAL PROTOCOL WO CONTRAST-43648/4.000000-Axial T1 inout phase-93661,1
+TCGA-BP-4799,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4799/04-22-1991-NA-MR RENAL PROTOCOL WO CONTRAST-43648/5.000000-Axial T2 heavy-94594,1
+TCGA-BP-4799,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4799/04-22-1991-NA-MR RENAL PROTOCOL WO CONTRAST-43648/7.000000-Axial diffusion 500-46501,1
+TCGA-BP-4799,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4799/04-22-1991-NA-MR RENAL PROTOCOL WO CONTRAST-43648/9.000000-Axial diffusion 1000-76641,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4799,Not applicable,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/10.000000-Timing run-56960,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/100.000000-2381183-238983-41844,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/101.000000-2381289-238989-57237,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/102.000000-2381370-238970-30537,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/11.000000-Axial LAVA post-74624,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/12.000000-Axial LAVA post-28548,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/13.000000-Axial LAVA post-75802,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/15.000000-Axial flow sensitive-14963,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/2.000000-Axial T1 inout phase-70326,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/3.000000-Axial T1 inout phase-93045,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/5.000000-Calibration scan BH-25805,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/6.000000-Ax 2D FIESTA ASSET-81331,1
+TCGA-BP-4963,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4963/04-23-1989-NA-MR ABDOMEN WWO CONTRAST-19334/7.000000-Axial T2-21422,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4963,Not applicable,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/10.000000-Axial diffusion 500-07344,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/100.000000-70601316-70601216-88211,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/11.000000-Axial diffusion 1000-08921,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/12.000000-Axial 3D T1 fat sat-74376,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/13.000000-Axial 3D T1 post fat sat-09982,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/14.000000-Axial 3D T1 post fat sat-98401,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/15.000000-Axial Steady State-88846,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/16.000000-Axial 3D T1 post fat sat-30231,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/17.000000-Axial flow sensitive-62053,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/2.000000-Axial T1-67204,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/5.000000-Axial T2 fat sat-50810,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/7.000000-Axial T1 inout phase-28277,1
+TCGA-BP-4973,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4973/10-29-1989-NA-MR ABDPEL WWO CONT-80973/8.000000-Axial T2-00608,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4973,Not applicable,1
+TCGA-BP-4999,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4999/09-09-1990-NA-FORFILE CD MR ABDOMEN-78336/11.000000-Ax LAVA POST-75621,1
+TCGA-BP-4999,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4999/09-09-1990-NA-FORFILE CD MR ABDOMEN-78336/4.000000-Ax 2D FIESTA FATSAT Asset-42247,1
+TCGA-BP-4999,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4999/09-09-1990-NA-FORFILE CD MR ABDOMEN-78336/5.000000-Ax T2 SSFSE BH FatSat ASSET-85197,1
+TCGA-BP-4999,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4999/09-09-1990-NA-FORFILE CD MR ABDOMEN-78336/6.000000-Ax T2 SSFSE BH ASSET-09663,1
+TCGA-BP-4999,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4999/09-09-1990-NA-FORFILE CD MR ABDOMEN-78336/7.000000-Ax T1 FSPGR FatSAT BH Asset-66224,1
+TCGA-BP-4999,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-4999/09-09-1990-NA-FORFILE CD MR ABDOMEN-78336/8.000000-Ax Dualecho FSPGR BH Asset-39059,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-4999,Not applicable,1
+TCGA-BP-5006,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5006/03-25-1991-NA-FORFILE CD MR ABDOMEN-38132/10.000000-VIBE 3D AXIAL BH POST 2X-40966,1
+TCGA-BP-5006,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5006/03-25-1991-NA-FORFILE CD MR ABDOMEN-38132/11.000000-VIBE SUB-94089,1
+TCGA-BP-5006,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5006/03-25-1991-NA-FORFILE CD MR ABDOMEN-38132/13.000000-T1 AX MBH POST GAD-64089,1
+TCGA-BP-5006,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5006/03-25-1991-NA-FORFILE CD MR ABDOMEN-38132/5.000000-T2 HASTE AXIAL-79652,1
+TCGA-BP-5006,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5006/03-25-1991-NA-FORFILE CD MR ABDOMEN-38132/6.000000-T1 AX INOUT160 TR MBH-21717,1
+TCGA-BP-5006,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5006/03-25-1991-NA-FORFILE CD MR ABDOMEN-38132/7.000000-T2 FAT SAT AX-63641,1
+TCGA-BP-5006,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5006/03-25-1991-NA-FORFILE CD MR ABDOMEN-38132/9.000000-VIBE 3D AXIAL BH POST 2X-31473,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5006,Not applicable,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/10.000000-Axial 3D T1 fat sat post-58701,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/100.000000-1480710137-148079137-61376,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/101.000000-14807118-1480798-03332,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/102.000000-148071367-14807967-04556,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/11.000000-Axial 3D T1 fat sat post-37996,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/12.000000-Axial Steady State-40523,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/13.000000-Axial 3D T1 fat sat post-01635,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/14.000000-Axial Flow Sensitive-61685,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/2.000000-Axial T1 inout phase-48705,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/6.000000-Axial T2-90699,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/7.000000-Axial Diffusion 500-22376,1
+TCGA-BP-5010,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5010/07-28-1991-NA-MR ABDOMEN WWO CONTRAST-14159/8.000000-Axial Diffusion 1000-81300,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5010,Not applicable,1
+TCGA-BP-5173,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5173/12-01-1987-NA-MR ABDOMEN WWO CONTRAST-58974/10.000000-Axial T1 FAME 3d fSPGR post-66382,0
+TCGA-BP-5173,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5173/12-01-1987-NA-MR ABDOMEN WWO CONTRAST-58974/11.000000-Axial T1 FAME 3d fSPGR post-85514,0
+TCGA-BP-5173,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5173/12-01-1987-NA-MR ABDOMEN WWO CONTRAST-58974/12.000000-Axial T1 FAME 3d fSPGR post-09954,0
+TCGA-BP-5173,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5173/12-01-1987-NA-MR ABDOMEN WWO CONTRAST-58974/13.000000-Axial T1 FAME 3d fSPGR post-85393,0
+TCGA-BP-5173,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5173/12-01-1987-NA-MR ABDOMEN WWO CONTRAST-58974/14.000000-Axial flow sensitive-08602,0
+TCGA-BP-5173,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5173/12-01-1987-NA-MR ABDOMEN WWO CONTRAST-58974/2.000000-Axial T1 in-phase-75456,0
+TCGA-BP-5173,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5173/12-01-1987-NA-MR ABDOMEN WWO CONTRAST-58974/5.000000-Axial T2-62295,0
+TCGA-BP-5173,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5173/12-01-1987-NA-MR ABDOMEN WWO CONTRAST-58974/7.000000-Axial T2 fat sat-29002,0
+TCGA-BP-5173,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5173/12-01-1987-NA-MR ABDOMEN WWO CONTRAST-58974/9.000000-Axial T1 FAME 3d fSPGR-67562,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5173,Not applicable,0
+TCGA-BP-5176,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5176/04-07-1988-NA-MR ABDOMEN WWO CONTRAST-82793/100.000000-Axial T1 post-99113,1
+TCGA-BP-5176,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5176/04-07-1988-NA-MR ABDOMEN WWO CONTRAST-82793/101.000000-Axial T1 post-02534,1
+TCGA-BP-5176,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5176/04-07-1988-NA-MR ABDOMEN WWO CONTRAST-82793/102.000000-Axial T1 post-98422,1
+TCGA-BP-5176,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5176/04-07-1988-NA-MR ABDOMEN WWO CONTRAST-82793/103.000000-Axial T1 post-19545,1
+TCGA-BP-5176,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5176/04-07-1988-NA-MR ABDOMEN WWO CONTRAST-82793/3.000000-Axial T1 in-phase-73245,1
+TCGA-BP-5176,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5176/04-07-1988-NA-MR ABDOMEN WWO CONTRAST-82793/4.000000-Axial T2 fat sat-83165,1
+TCGA-BP-5176,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5176/04-07-1988-NA-MR ABDOMEN WWO CONTRAST-82793/5.000000-Axial T2-83929,1
+TCGA-BP-5176,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5176/04-07-1988-NA-MR ABDOMEN WWO CONTRAST-82793/7.000000-Axial T1-95541,1
+TCGA-BP-5176,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5176/04-07-1988-NA-MR ABDOMEN WWO CONTRAST-82793/9.000000-Axial flow sensitive-72929,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5176,Not applicable,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/100.000000-NA-22747,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/101.000000-NA-63403,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/102.000000-NA-16458,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/103.000000-NA-91753,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/12.000000-Axial T1 FAME 3d fSPGR-48499,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/14.000000-Axial flow sensitive-74411,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/2.000000-Axial T1-34996,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/3.000000-Axial T2 fat sat-33633,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/6.000000-Axial T1 in-phase-79814,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/7.000000-Axial T2 fat sat-33600,1
+TCGA-BP-5178,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5178/04-17-1988-NA-MR ABDPEL WWO CONT-97442/9.000000-Axial T2-07887,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5178,Not applicable,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/10.000000-Axial 3D T1 post fat sat-89044,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/100.000000-122861080-12286980-13783,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/101.000000-122861124-12286924-42928,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/102.000000-12286122-1228692-55040,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/11.000000-Axial 3D T1 post fat sat-77084,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/12.000000-Axial 3D T1 post fat sat-45555,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/13.000000-Axial Steady State-27065,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/14.000000-Axial flow sensitive-93216,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/3.000000-Axial T1 inout phase-15029,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/4.000000-Axial T2-28456,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/7.000000-Axial diffusion 1000-98132,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/8.000000-Axial diffusion 500-09942,1
+TCGA-BP-5185,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5185/01-29-1991-NA-MR RENAL PROTOCOL WWO CONTRAST-85765/9.000000-Axial 3D T1 fat sat-76114,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5185,Not applicable,1
+TCGA-BP-5198,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5198/12-07-1991-NA-FORFILE CD MR ABDOMEN-16820/10.000000-T2 FASE AX-KID-95493,1
+TCGA-BP-5198,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5198/12-07-1991-NA-FORFILE CD MR ABDOMEN-16820/11.000000-DYNAMIC ABDOMEN-46361,1
+TCGA-BP-5198,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5198/12-07-1991-NA-FORFILE CD MR ABDOMEN-16820/5.000000-AX T2 FSE-ABDOMEN-98452,1
+TCGA-BP-5198,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5198/12-07-1991-NA-FORFILE CD MR ABDOMEN-16820/8.000000-AX FE INOUT PH-KID-03881,1
+TCGA-BP-5198,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5198/12-07-1991-NA-FORFILE CD MR ABDOMEN-16820/9.000000-AX T2 FSAT-KID-05842,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5198,Not applicable,1
+TCGA-BP-5200,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5200/12-27-1991-NA-FORFILE CD MR ABDOMEN-02632/11.000000-AX VIBE 1ST POST-83732,1
+TCGA-BP-5200,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5200/12-27-1991-NA-FORFILE CD MR ABDOMEN-02632/12.000000-AX VIBE 2ND POST-48620,1
+TCGA-BP-5200,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5200/12-27-1991-NA-FORFILE CD MR ABDOMEN-02632/14.000000-t1fl2dfstrambhpat2-96760,1
+TCGA-BP-5200,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5200/12-27-1991-NA-FORFILE CD MR ABDOMEN-02632/3.000000-t1fl2dfstrambhpat2-70784,1
+TCGA-BP-5200,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5200/12-27-1991-NA-FORFILE CD MR ABDOMEN-02632/8.000000-AX VIBE-66238,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5200,Not applicable,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/10.000000-Axial 3D T1 fat sat post-23041,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/103.000000-31521078-3152978-84574,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/104.000000-31521110-3152910-93886,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/105.000000-31521210-3152910-09277,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/11.000000-Axial 3D T1 fat sat post-30125,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/12.000000-Axial 3D T1 fat sat post-90216,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/13.000000-Axial Steady State-40632,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/14.000000-Axial flow sensitive-06114,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/3.000000-Axial T1 inout phase-89108,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/4.000000-Axial T2 heavy-54868,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/6.000000-Axial diffusion 500-98073,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/7.000000-Axial diffusion 1000-93938,1
+TCGA-BP-5201,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-BP-5201/01-06-1992-NA-MR RENAL PROTOCOL WWO CONTRAST-93778/9.000000-Axial 3D T1 fat sat-16881,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-BP-5201,Not applicable,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/10.000000-ASSET Calib-51354,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/104.000000-SCAX T2  frfse-09140,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/105.000000-SCAX T2  frfse  140te-64675,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/107.000000-SCAx  t1 asset-18417,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/109.000000-SCAx  t1 asset-36855,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/11.000000-3D DYNAMIC-88707,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/111.000000-SC3D DYNAMIC-59365,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/112.000000-SCAx  2D BH-92094,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/12.000000-Ax  2D BH-19378,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/3.000000-Ax t2  XL-23710,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/4.000000-AX T2  frfse-27184,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/5.000000-AX T2  frfse  140te-14966,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/6.000000-ASSET Calib-04046,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/7.000000-Ax  t1 asset-52807,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/8.000000-Ax BH GRE-88438,1
+TCGA-CJ-6031,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CJ-6031/11-04-1993-NA-MRI ABDOMEN WWO CONT-05560/9.000000-Ax  t1 asset-82685,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CJ-6031,Not applicable,1
+TCGA-CW-5583,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5583/12-22-1990-NA-ab5589-74854/10.000000-Ax spgr abd-06436,1
+TCGA-CW-5583,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5583/12-22-1990-NA-ab5589-74854/11.000000-Ax spgr abd-96972,1
+TCGA-CW-5583,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5583/12-22-1990-NA-ab5589-74854/2.000000-improved ssfse-07147,1
+TCGA-CW-5583,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5583/12-22-1990-NA-ab5589-74854/3.000000-improved dual echo fgre-45307,1
+TCGA-CW-5583,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5583/12-22-1990-NA-ab5589-74854/4.000000-frfse t2-69441,1
+TCGA-CW-5583,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5583/12-22-1990-NA-ab5589-74854/6.000000-t2 pelvis-37041,1
+TCGA-CW-5583,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5583/12-22-1990-NA-ab5589-74854/7.000000-t1 pelvis-59046,1
+TCGA-CW-5583,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5583/12-22-1990-NA-ab5589-74854/9.000000-obl 3D post-49830,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5583,Not applicable,1
+TCGA-CW-5584,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5584/11-11-1990-NA-MRI Abd wow-50333/2.000000-improved ssfse-26792,0
+TCGA-CW-5584,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5584/11-11-1990-NA-MRI Abd wow-50333/3.000000-frfse t1-13050,0
+TCGA-CW-5584,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5584/11-11-1990-NA-MRI Abd wow-50333/4.000000-frfse t2-67800,0
+TCGA-CW-5584,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5584/11-11-1990-NA-MRI Abd wow-50333/7.000000-obl 3D post-54226,0
+TCGA-CW-5584,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5584/11-11-1990-NA-MRI Abd wow-50333/8.000000-Ax spgr-41200,0
+TCGA-CW-5584,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5584/11-11-1990-NA-MRI Abd wow-50333/9.000000-Ax spgr-26608,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5584,Not applicable,0
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/10.000000-ax 3D post-67809,1
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/11.000000-Ax spgr-95138,1
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/12.000000-realtime-90517,1
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/188.000000-MaximumIntensityProjection-01298,1
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/189.000000-PJN-59364,1
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/190.000000-PJN-83547,1
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/2.000000-axial T1-78929,1
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/200.000000-SCaxial T1-28084,1
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/3.000000-axial FSE-XL-86818,1
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/6.000000-IPOP-71148,1
+TCGA-CW-5585,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5585/03-02-1991-NA-pe6516-01974/7.000000-frfse breath hold-34564,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5585,Not applicable,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-24-1991-NA-AB6514-67581/3.000000-ax t1-04744,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-24-1991-NA-AB6514-67581/4.000000-Axspgr-91736,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-24-1991-NA-AB6514-67581/7.000000-realtime-76481,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-24-1991-NA-AB6514-67581/9.000000-AX SPGR-29016,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-30-1997-NA-MRI Abd wow-32225/10.000000-lava post-95200,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-30-1997-NA-MRI Abd wow-32225/11.000000-ax fsfiesta2d-02892,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-30-1997-NA-MRI Abd wow-32225/2.000000-ax FSE resp trig.-88037,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-30-1997-NA-MRI Abd wow-32225/4.000000-ASSET calibration-30010,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-30-1997-NA-MRI Abd wow-32225/6.000000-improved IPOP-50857,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-30-1997-NA-MRI Abd wow-32225/7.000000-diffusion B100-95906,1
+TCGA-CW-5587,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5587/03-30-1997-NA-MRI Abd wow-32225/8.000000-diffusion B600-65462,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5587,Not applicable,1
+TCGA-CW-5588,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5588/04-28-1991-NA-MRI - PELVIS-17488/2.000000-improved ssfse-11995,1
+TCGA-CW-5588,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5588/04-28-1991-NA-MRI - PELVIS-17488/3.000000-frfse t1-13873,1
+TCGA-CW-5588,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5588/04-28-1991-NA-MRI - PELVIS-17488/4.000000-frfse t1-22530,1
+TCGA-CW-5588,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5588/04-28-1991-NA-MRI - PELVIS-17488/5.000000-2d fiesta opt-42769,1
+TCGA-CW-5588,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5588/04-28-1991-NA-MRI - PELVIS-17488/7.000000-obl 3D post-73587,1
+TCGA-CW-5588,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5588/04-28-1991-NA-MRI - PELVIS-17488/798.000000-PJN-23161,1
+TCGA-CW-5588,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5588/04-28-1991-NA-MRI - PELVIS-17488/8.000000-Ax spgr-53810,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5588,Not applicable,1
+TCGA-CW-5591,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5591/06-17-1991-NA-MRI - ABDOMEN-40589/10.000000-Ax spgr-58018,1
+TCGA-CW-5591,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5591/06-17-1991-NA-MRI - ABDOMEN-40589/4.000000-frfse t1 breath hold-23993,1
+TCGA-CW-5591,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5591/06-17-1991-NA-MRI - ABDOMEN-40589/6.000000-frfse t2 breath hold-07618,1
+TCGA-CW-5591,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5591/06-17-1991-NA-MRI - ABDOMEN-40589/7.000000-improved IPOP opt-74038,1
+TCGA-CW-5591,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-5591/06-17-1991-NA-MRI - ABDOMEN-40589/9.000000-obl 3D post-82526,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-5591,Not applicable,1
+TCGA-CW-6087,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6087/09-08-1990-NA-MRI PELVIS wow-39705/2.000000-ax fse t1-98487,0
+TCGA-CW-6087,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6087/09-08-1990-NA-MRI PELVIS wow-39705/3.000000-ax fse t2-14282,0
+TCGA-CW-6087,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6087/09-08-1990-NA-MRI PELVIS wow-39705/4.000000-ax fse t2-16383,0
+TCGA-CW-6087,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6087/09-08-1990-NA-MRI PELVIS wow-39705/5.000000-ax 3D-30976,0
+TCGA-CW-6087,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6087/09-08-1990-NA-MRI PELVIS wow-39705/6.000000-ax 3D-32908,0
+TCGA-CW-6087,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6087/09-08-1990-NA-MRI PELVIS wow-39705/7.000000-Ax spgr-90923,0
+TCGA-CW-6087,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6087/09-08-1990-NA-MRI PELVIS wow-39705/8.000000-Ax spgr-81590,0
+TCGA-CW-6087,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6087/09-08-1990-NA-MRI PELVIS wow-39705/9.000000-Ax spgr-72001,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6087,Not applicable,0
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/02-02-1992-NA-MRI - ABDOMEN-67803/2.000000-ASSET calibration-34694,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/02-02-1992-NA-MRI - ABDOMEN-67803/4.000000-frfse t2-32115,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/02-02-1992-NA-MRI - ABDOMEN-67803/5.000000-frfse t1-44459,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/02-02-1992-NA-MRI - ABDOMEN-67803/6.000000-lava post-01119,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/02-02-1992-NA-MRI - ABDOMEN-67803/7.000000-lava post-75579,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/02-02-1992-NA-MRI - ABDOMEN-67803/8.000000-Ax spgr-14110,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/04-26-1992-NA-MRI - ABDOMEN-38352/10.000000-ASSET calibration-03786,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/04-26-1992-NA-MRI - ABDOMEN-38352/12.000000-lava post-18647,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/04-26-1992-NA-MRI - ABDOMEN-38352/13.000000-Ax spgr-25938,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/04-26-1992-NA-MRI - ABDOMEN-38352/14.000000-Ax spgr pelvis-97955,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/04-26-1992-NA-MRI - ABDOMEN-38352/2.000000-ASSET calibration-95582,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/04-26-1992-NA-MRI - ABDOMEN-38352/4.000000-IPOP-opt.-93905,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/04-26-1992-NA-MRI - ABDOMEN-38352/5.000000-frfse t2-09085,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/04-26-1992-NA-MRI - ABDOMEN-38352/6.000000-fse t1-31092,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/04-26-1992-NA-MRI - ABDOMEN-38352/7.000000-fse t1-09895,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/04-26-1992-NA-MRI - ABDOMEN-38352/8.000000-fse t1-71532,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/07-13-1992-NA-MRI - ABDOMEN-48701/10.000000-Ax spgr abd-88180,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/07-13-1992-NA-MRI - ABDOMEN-48701/11.000000-Ax spgr pelvis-74173,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/07-13-1992-NA-MRI - ABDOMEN-48701/2.000000-ASSET calibration-17260,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/07-13-1992-NA-MRI - ABDOMEN-48701/4.000000-IPOP-opt.-83785,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/07-13-1992-NA-MRI - ABDOMEN-48701/5.000000-frfse t2-39669,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/07-13-1992-NA-MRI - ABDOMEN-48701/6.000000-fse t1-04656,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/07-13-1992-NA-MRI - ABDOMEN-48701/8.000000-realtime-80666,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/07-13-1992-NA-MRI - ABDOMEN-48701/9.000000-lava post-21326,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-23-1994-NA-MRI Abd wow-60108/10.000000-ax fse pelvis-26736,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-23-1994-NA-MRI Abd wow-60108/11.000000-realtime-75546,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-23-1994-NA-MRI Abd wow-60108/12.000000-lava post-70687,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-23-1994-NA-MRI Abd wow-60108/13.000000-fsfiesta2d-98698,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-23-1994-NA-MRI Abd wow-60108/14.000000-Ax spgr-44463,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-23-1994-NA-MRI Abd wow-60108/15.000000-Ax spgr pelvis-97941,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-23-1994-NA-MRI Abd wow-60108/4.000000-ax FSE fsemaster-60568,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-23-1994-NA-MRI Abd wow-60108/6.000000-fse t1-71502,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-23-1994-NA-MRI Abd wow-60108/7.000000-IPOP-72326,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-23-1994-NA-MRI Abd wow-60108/9.000000-ax fse t-1 pelvis-66299,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-25-1992-NA-MRI - ABDOMEN-99169/2.000000-ASSET calibration-83707,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-25-1992-NA-MRI - ABDOMEN-99169/4.000000-IPOP-opt.-79344,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-25-1992-NA-MRI - ABDOMEN-99169/5.000000-frfse t2-36450,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-25-1992-NA-MRI - ABDOMEN-99169/6.000000-fse t1-43357,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-25-1992-NA-MRI - ABDOMEN-99169/8.000000-lava post-90569,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/10-25-1992-NA-MRI - ABDOMEN-99169/9.000000-Ax spgr-17306,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/11-02-1991-NA-MRI - ABDOMEN-33596/12.000000-Ax spgr gad abd-24301,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/11-02-1991-NA-MRI - ABDOMEN-33596/13.000000-Ax spgr gad pelvis-87216,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/11-02-1991-NA-MRI - ABDOMEN-33596/3.000000-IPOP-opt.-46539,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/11-02-1991-NA-MRI - ABDOMEN-33596/4.000000-frfse t2-37159,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/11-02-1991-NA-MRI - ABDOMEN-33596/5.000000-frfse t1-00462,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/11-02-1991-NA-MRI - ABDOMEN-33596/8.000000-frfse t1 pelvis-92860,1
+TCGA-CW-6090,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CW-6090/11-02-1991-NA-MRI - ABDOMEN-33596/9.000000-frfse t2 pelvis-85377,1
+TCGA-CZ-4857,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-4857/11-01-1996-NA-ABD WWO CONT-24147/3.000000-Asset cal 1 ACQ ONLY -15912,1
+TCGA-CZ-4857,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-4857/11-01-1996-NA-ABD WWO CONT-24147/5.000000-AX T2 FRFSE-52240,1
+TCGA-CZ-4857,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-4857/11-01-1996-NA-ABD WWO CONT-24147/6.000000-Ax T1 FSPGR-90697,1
+TCGA-CZ-4857,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-4857/11-01-1996-NA-ABD WWO CONT-24147/9.000000-Ax T1 FSPGR FS POST DYN-90428,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-4857,Not applicable,1
+TCGA-CZ-5454,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5454/10-02-1997-NA-ABD WWO CONT-17498/1.000000-3PL KIDNEYS-98383,1
+TCGA-CZ-5454,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5454/10-02-1997-NA-ABD WWO CONT-17498/100.000000-30821985-3082191-59304,1
+TCGA-CZ-5454,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5454/10-02-1997-NA-ABD WWO CONT-17498/101.000000-308219169-3082191-55260,1
+TCGA-CZ-5454,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5454/10-02-1997-NA-ABD WWO CONT-17498/102.000000-308219253-3082191-57409,1
+TCGA-CZ-5454,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5454/10-02-1997-NA-ABD WWO CONT-17498/3.000000-AX FRFSE-XL T2-53818,1
+TCGA-CZ-5454,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5454/10-02-1997-NA-ABD WWO CONT-17498/4.000000-AX SSFSE T2-93448,1
+TCGA-CZ-5454,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5454/10-02-1997-NA-ABD WWO CONT-17498/5.000000-AX FSPGR T1 DUALECHO-12940,1
+TCGA-CZ-5454,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5454/10-02-1997-NA-ABD WWO CONT-17498/7.000000-AX 3D FAME PRE3DYN-52030,1
+TCGA-CZ-5454,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5454/10-02-1997-NA-ABD WWO CONT-17498/8.000000-AX 3D FAME PRE3DYN-33619,1
+TCGA-CZ-5454,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5454/10-02-1997-NA-ABD WWO CONT-17498/9.000000-AX 3D FAME PRE3DYN-10496,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5454,Not applicable,1
+TCGA-CZ-5455,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5455/10-19-1997-NA-ABDOMEN -CONT-12805/10.000000-Ax LAVA BH Asset-55714,1
+TCGA-CZ-5455,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5455/10-19-1997-NA-ABDOMEN -CONT-12805/100.000000-634810117-6348101-64727,1
+TCGA-CZ-5455,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5455/10-19-1997-NA-ABDOMEN -CONT-12805/101.000000-634810233-6348101-51694,1
+TCGA-CZ-5455,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5455/10-19-1997-NA-ABDOMEN -CONT-12805/102.000000-634810349-6348101-01249,1
+TCGA-CZ-5455,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5455/10-19-1997-NA-ABDOMEN -CONT-12805/12.000000-Ax LAVA BH Asset 5 MIN-48726,1
+TCGA-CZ-5455,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5455/10-19-1997-NA-ABDOMEN -CONT-12805/2.000000-Asset cal 1 ACQ ONLY -55530,1
+TCGA-CZ-5455,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5455/10-19-1997-NA-ABDOMEN -CONT-12805/4.000000-AX T2 FRFSE-43673,1
+TCGA-CZ-5455,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5455/10-19-1997-NA-ABDOMEN -CONT-12805/6.000000-AX T2 SSFSE FS-22231,1
+TCGA-CZ-5455,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5455/10-19-1997-NA-ABDOMEN -CONT-12805/7.000000-Ax DE FSPGR INOUT PHASE-85322,1
+TCGA-CZ-5455,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5455/10-19-1997-NA-ABDOMEN -CONT-12805/8.000000-Ax T1 FSPGR-27545,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5455,Not applicable,1
+TCGA-CZ-5460,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5460/01-12-1998-NA-ABD WWO CONT-73690/1.000000-3PL KIDNEYS-69746,1
+TCGA-CZ-5460,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5460/01-12-1998-NA-ABD WWO CONT-73690/10.000000-AX 3D FAME PRE3DYN-91720,1
+TCGA-CZ-5460,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5460/01-12-1998-NA-ABD WWO CONT-73690/100.000000-3219810125-32198101-30316,1
+TCGA-CZ-5460,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5460/01-12-1998-NA-ABD WWO CONT-73690/101.000000-3219810249-32198101-48020,1
+TCGA-CZ-5460,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5460/01-12-1998-NA-ABD WWO CONT-73690/102.000000-3219810373-32198101-00373,1
+TCGA-CZ-5460,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5460/01-12-1998-NA-ABD WWO CONT-73690/3.000000-AX FRFSE-XL T2-70412,1
+TCGA-CZ-5460,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5460/01-12-1998-NA-ABD WWO CONT-73690/4.000000-AX SSFSE T2-43766,1
+TCGA-CZ-5460,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5460/01-12-1998-NA-ABD WWO CONT-73690/5.000000-AX FSPGR T1 DUALECHO-52623,1
+TCGA-CZ-5460,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5460/01-12-1998-NA-ABD WWO CONT-73690/6.000000-AX GRASS-61622,1
+TCGA-CZ-5460,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5460/01-12-1998-NA-ABD WWO CONT-73690/7.000000-AX  GRASS NON BH-55173,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5460,Not applicable,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/1.000000-3PL KIDNEYS-21548,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/10.000000-AX 3D LAVA DYN-74481,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/100.000000-19200101-1920091-53443,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/101.000000-192001089-1920091-99894,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/102.000000-1920010177-1920091-03758,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/103.000000-1920010265-1920091-87423,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/3.000000-AX FRFSE-XL T2-13568,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/4.000000-AX SSFSE T2-52011,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/5.000000-AX FSPGR T1 DUALECHO-25138,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/7.000000-AX GRASS-35667,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/8.000000-ASSET CAL-82899,1
+TCGA-CZ-5464,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5464/02-24-1998-NA-ABD WWO CONT-54249/9.000000-AX 3D LAVA DYN-99033,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5464,Not applicable,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/100.000000-200281-200271-42200,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/101.000000-20028105-200271-48186,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/102.000000-20028209-200271-12124,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/103.000000-SCAX FRFSE-XL T2-76642,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/104.000000-SCAX SSFSE T2-82738,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/107.000000-20028313-200271-09231,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/3.000000-AX FRFSE-XL T2-09777,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/4.000000-AX SSFSE T2-85966,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/5.000000-AX FSPGR T1 DUAL ECHO-63591,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/7.000000-AX 3D SPGRFAME NO 5 MIN DEL-52072,1
+TCGA-CZ-5466,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5466/08-04-1998-NA-ABD WWO CONT-13520/8.000000-AX 3D SPGRFAME NO 5 MIN DEL-17743,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5466,Not applicable,1
+TCGA-CZ-5987,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5987/09-20-1997-NA-ABD WWO CONT-28206/100.000000-1771381-1771361-77438,1
+TCGA-CZ-5987,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5987/09-20-1997-NA-ABD WWO CONT-28206/101.000000-17713827-1771361-01412,1
+TCGA-CZ-5987,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5987/09-20-1997-NA-ABD WWO CONT-28206/102.000000-17713853-1771361-75983,1
+TCGA-CZ-5987,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5987/09-20-1997-NA-ABD WWO CONT-28206/103.000000-17713879-1771361-72899,1
+TCGA-CZ-5987,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5987/09-20-1997-NA-ABD WWO CONT-28206/3.000000-Asset cal 1 ACQ ONLY -54170,1
+TCGA-CZ-5987,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5987/09-20-1997-NA-ABD WWO CONT-28206/4.000000-AX T2 FRFSE-32800,1
+TCGA-CZ-5987,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5987/09-20-1997-NA-ABD WWO CONT-28206/5.000000-AX T2 FRFSE-71304,1
+TCGA-CZ-5987,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5987/09-20-1997-NA-ABD WWO CONT-28206/6.000000-Ax T1 FSPGR-51675,1
+TCGA-CZ-5987,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5987/09-20-1997-NA-ABD WWO CONT-28206/7.000000-Ax DUALECHO FSPGR BH LIVERR-89369,1
+TCGA-CZ-5987,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5987/09-20-1997-NA-ABD WWO CONT-28206/8.000000-Ax T1 FSPGR FS PREPOST DYN-91080,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5987,Not applicable,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/1.000000-LIVER-94376,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/100.000000-1883891-18838821-06397,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/101.000000-1883897318838821-52269,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/101.000000-PJN-75153,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/102.000000-18838973-18838821-56723,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/103.000000-PJN-40400,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/104.000000-188389145-18838821-51638,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/105.000000-PJN-90979,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/11.000000-Ax FAME BH POST X3-44159,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/3.000000-Asset cal 1 ACQONLY -69042,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/4.000000-AX T2 FRFSE-67757,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/5.000000-AX T2 SSFSE-71642,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/6.000000-Ax Dualecho FSPGR BH-88717,1
+TCGA-CZ-5989,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-CZ-5989/11-21-1997-NA-ABD WWO CONT-16700/7.000000-Ax FAME BH-67789,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-CZ-5989,Not applicable,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/1.000000-3 PLANE FREE BREATH-25755,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/100.000000-PJN-61917,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/2.000000-3 PLANE BREATH HOLD-65317,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/3.000000-T2 FRFSE AX FATSAT BH-17402,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/4.000000-T2 AX  RESP TRIG-77713,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/5.000000-AXIAL WHITE BLOOD-33142,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/6.000000-3D AX FATSAT BH LIVER ONLY-75627,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/700.000000-PJN-43608,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/701.000000-PJN-92196,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/8.000000-3D AX FATSAT BH post-35304,1
+TCGA-DV-A4VX,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VX/11-25-1997-NA-MRI Abdomen-64296/9.000000-T1 AX BH ABDOMEN FATSAT POST-49634,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VX,Not applicable,1
+TCGA-DV-A4VZ,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VZ/07-26-1997-NA-MRI Kidneys-44935/1101.000000-s4DUALFFE optional-16815,1
+TCGA-DV-A4VZ,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VZ/07-26-1997-NA-MRI Kidneys-44935/501.000000-T2 AX BH FAT SAT-58428,1
+TCGA-DV-A4VZ,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VZ/07-26-1997-NA-MRI Kidneys-44935/601.000000-T2 AX BH FAT SAT-29865,1
+TCGA-DV-A4VZ,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VZ/07-26-1997-NA-MRI Kidneys-44935/701.000000-SSFSE T2 AX RT-55868,1
+TCGA-DV-A4VZ,/home/csantiago/Datasets/Radiology-TCGA/TCGA-KIRC/TCGA-DV-A4VZ/07-26-1997-NA-MRI Kidneys-44935/801.000000-T2 AX SPIR RT-04968,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
+TCGA-DV-A4VZ,Not applicable,1
