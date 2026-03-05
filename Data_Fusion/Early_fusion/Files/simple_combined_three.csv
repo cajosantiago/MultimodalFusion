@@ -1,0 +1,619 @@
+case_id,gender,age_diag,race,grade,cancer_history,ajcc_path_tumor_pt,ajcc_path_nodes_pn,ajcc_clin_metastasis_cm,ajcc_path_metastasis_pm,ajcc_path_tumor_stage,vital_status_12
+C3L-00004,Male,72,White,G3,No,T3,NX,M0,MX,Stage III,1
+C3L-00010,Male,30,White,G3,No,T1b,N0,M0,MX,Stage I,1
+C3L-00011,Female,63,White,G4,Yes,T3a,NX,M1,M1,Stage III,0
+C3L-00026,Female,65,White,G3,No,T1a,NX,M0,MX,Stage I,1
+C3L-00079,Male,49,White,G3,No,T3a,N1,M0,MX,Stage III,0
+C3L-00088,Male,72,White,G2,No,T3a,NX,M0,MX,Stage III,1
+C3L-00096,Male,52,White,G4,No,T3a,N0,M1,M1,Stage IV,0
+C3L-00097,Male,59,White,G2,No,T1a,NX,M0,MX,Stage I,1
+C3L-00103,Male,56,White,G3,No,T3b,N0,M0,MX,Stage III,1
+C3L-00183,Female,33,White,G2,No,T3a,NX,M0,M0,Stage III,1
+C3L-00359,Female,73,White,G1,No,T1a,NX,M0,M0,Stage I,1
+C3L-00360,Male,72,White,G3,No,T2a,NX,M0,MX,Stage II,1
+C3L-00369,Male,89,White,G2,No,T3a,NX,M1,M0,Stage III,0
+C3L-00416,Male,62,White,G4,No,T3b,NX,MX,MX,Stage II,1
+C3L-00418,Female,56,White,G2,No,T3a,NX,M0,MX,Stage III,1
+C3L-00447,Male,35,White,G3,No,T1b,NX,M0,MX,Stage I,1
+C3L-00448,Male,66,White,G2,No,T1a,NX,M0,MX,Stage I,1
+C3L-00561,Male,50,White,G4,No,T3b,N0,M0,MX,Stage III,1
+C3L-00581,Male,52,White,G2,No,T2b,NX,M0,MX,Stage II,1
+C3L-00583,Male,55,White,G3,No,T1a,NX,M0,MX,Stage I,1
+C3L-00606,Female,75,White,G3,No,T3a,N0,M0,M0,Stage III,1
+C3L-00607,Male,66,White,G3,No,T3a,NX,MX,MX,Stage III,1
+C3L-00610,Female,57,White,G3,No,T1b,NX,MX,MX,Stage I,1
+C3L-00765,Female,61,White,G2,No,T1b,NX,MX,MX,Stage I,1
+C3L-00766,Female,57,White,G2,No,T1a,NX,MX,MX,Stage I,1
+C3L-00790,Male,44,White,G2,No,T1b,NX,MX,M0,Stage I,1
+C3L-00791,Male,76,White,G3,No,T1b,N1,MX,MX,Stage III,1
+C3L-00792,Female,95,White,G3,No,T2a,NX,MX,MX,Stage II,1
+C3L-00796,Male,67,White,G2,No,T1b,NX,MX,M0,Stage I,1
+C3L-00799,Male,41,White,G2,No,T1a,NX,MX,MX,Stage I,1
+C3L-00800,Male,41,White,G2,No,T1a,NX,MX,MX,Stage I,1
+C3L-00812,Male,74,White,G2,No,T1a,NX,MX,MX,Stage I,1
+C3L-00813,Male,61,White,G3,No,T3a,NX,MX,MX,Stage III,1
+C3L-00814,Male,83,White,G2,No,T1a,NX,MX,M0,Stage I,1
+C3L-00817,Male,80,White,G2,No,T1a,NX,MX,M0,Stage I,1
+C3L-00902,Female,69,White,G1,Yes,T1b,NX,M0,M0,Stage I,1
+C3L-00907,Male,55,White,G2,Yes,T1b,NX,MX,M0,Stage I,1
+C3L-00908,Female,60,White,G3,No,T2b,NX,MX,MX,Stage II,1
+C3L-00910,Female,75,White,G3,No,T1b,NX,M0,MX,Stage I,1
+C3L-00917,Male,37,White,G3,No,T1a,NX,M0,MX,Stage I,1
+C3L-01281,Male,66,White,G4,No,T3a,NX,M1,M1,Stage III,1
+C3L-01283,Male,37,White,G3,No,T1a,NX,M0,M0,Stage I,1
+C3L-01286,Male,58,White,G3,No,T3a,NX,M0,M0,Stage III,1
+C3L-01287,Male,60,White,G4,No,T3a,NX,M1,M0,Stage III,1
+C3L-01288,Female,70,White,G1,No,T1a,NX,M0,M0,Stage I,1
+C3L-01302,Female,71,White,G4,No,T3a,N0,M0,M0,Stage III,0
+C3L-01313,Male,63,White,G4,No,T3a,NX,MX,MX,Stage III,1
+C3L-01352,Female,76,White,G2,No,T1a,NX,MX,MX,Stage I,1
+C3L-01553,Male,59,White,G2,No,T1a,NX,MX,M0,Stage I,1
+C3L-01557,Male,51,Black or African American,G3,No,T3a,N0,MX,MX,Stage III,1
+C3L-01560,Female,54,White,G3,No,T1a,NX,MX,MX,Stage I,1
+C3L-01603,Male,63,White,G2,No,T1a,NX,MX,MX,Stage I,1
+C3L-01607,Male,83,White,G3,No,T3a,NX,MX,MX,Stage III,1
+C3L-01836,Male,47,White,G3,No,T1b,NX,MX,MX,Stage I,1
+C3L-01861,Male,57,White,G3,Yes,T1a,NX,MX,M0,Stage I,1
+C3L-01882,Male,48,White,G2,No,T1a,N0,M0,M0,Stage I,1
+C3L-01885,Male,67,White,G2,Yes,T1a,NX,M0,M0,Stage I,1
+C3N-00149,Female,68,White,G3,No,T4,N0,M0,MX,Stage IV,1
+C3N-00150,Female,55,White,G3,No,T3,N0,M1,MX,Stage IV,1
+C3N-00154,Male,68,White,G3,No,T2a,N0,M0,MX,Stage II,1
+C3N-00168,Male,47,Asian,G3,No,T1b,N0,M0,MX,Stage I,1
+C3N-00177,Male,52,Asian,G2,No,T3,N0,M0,MX,Stage III,1
+C3N-00194,Female,51,White,G3,No,T2b,NX,MX,MX,Stage IV,1
+C3N-00242,Male,69,White,G2,No,T1a,NX,MX,MX,Stage II,1
+C3N-00244,Male,46,White,G2,No,T1a,NX,MX,MX,Stage II,1
+C3N-00246,Male,44,White,G2,No,T1a,NX,MX,M0,Stage I,1
+C3N-00305,Female,60,White,G1,No,T1a,NX,MX,M0,Stage I,1
+C3N-00310,Male,84,White,G2,No,T3a,NX,MX,MX,Stage III,1
+C3N-00312,Male,68,White,G3,No,T3a,NX,MX,MX,Stage III,1
+C3N-00313,Female,31,White,G2,No,T1b,NX,MX,MX,Stage I,1
+C3N-00314,Male,78,White,G2,No,T1b,NX,MX,MX,Stage I,0
+C3N-00315,Male,68,White,G3,No,T1b,NX,MX,MX,Stage I,1
+C3N-00320,Male,67,White,G2,No,T3a,NX,MX,MX,Stage III,1
+C3N-00380,Female,57,White,G2,No,T1b,NX,M0,MX,Stage I,1
+C3N-00390,Male,58,White,G2,No,T3a,NX,M1,MX,Stage IV,1
+C3N-00435,Male,72,White,G3,No,T3,N1,M0,MX,Stage III,1
+C3N-00437,Female,69,White,G3,Yes,T3a,NX,MX,MX,Stage III,1
+C3N-00491,Male,54,White,G2,No,T1b,NX,M1,MX,Stage I,0
+C3N-00492,Female,49,White,G3,No,T2b,NX,MX,M0,Stage II,1
+C3N-00494,Male,66,White,G2,No,T1b,NX,MX,MX,Stage I,1
+C3N-00495,Male,67,White,G2,No,T1a,NX,MX,M0,Stage I,1
+C3N-00573,Male,61,Asian,G2,No,T2b,N0,M0,MX,Stage II,1
+C3N-00577,Male,72,Asian,G3,No,T3,N1,M0,MX,Stage IV,1
+C3N-00646,Female,57,White,G2,No,T1a,NX,M0,MX,Stage I,1
+C3N-00733,Male,56,White,G2,No,T3a,NX,MX,M0,Stage III,1
+C3N-00831,Male,52,White,G2,No,T2a,NX,M1,MX,Stage II,0
+C3N-00832,Male,79,White,G2,No,T1b,NX,MX,M0,Stage I,1
+C3N-00834,Male,65,White,G1,No,T1b,NX,MX,M0,Stage I,1
+C3N-00852,Male,62,White,G3,No,T3a,NX,M0,MX,Stage III,1
+C3N-00953,Male,41,Asian,G3,No,T2a,NX,MX,MX,Stage II,1
+C3N-01175,Female,60,White,G2,No,T3a,NX,MX,M0,Stage III,1
+C3N-01176,Male,71,White,G2,No,T3a,NX,M1,MX,Stage III,1
+C3N-01178,Female,58,White,G2,No,T3a,NX,MX,M0,Stage III,1
+C3N-01179,Male,72,White,G2,No,T3a,NX,MX,M0,Stage III,1
+C3N-01180,Male,51,White,G2,No,T1b,NX,MX,M0,Stage I,1
+C3N-01200,Female,56,White,G3,No,T4,N0,M1,MX,Stage IV,0
+C3N-01213,Male,68,White,G1,No,T3a,NX,M0,MX,Stage III,1
+C3N-01214,Male,60,White,G2,No,T2a,N0,M0,MX,Stage II,1
+C3N-01220,Male,51,White,G4,No,T3a,NX,M1,MX,Stage IV,1
+C3N-01261,Male,67,White,G1,No,T1b,NX,M0,MX,Stage I,1
+C3N-01361,Male,48,White,G2,No,T1a,NX,MX,M0,Stage I,1
+C3N-01522,Male,80,White,G2,No,T1b,N0,M0,MX,Stage I,1
+C3N-01524,Male,61,White,G3,No,T2a,NX,M0,MX,Stage II,1
+C3N-01646,Male,69,White,G3,No,T3a,NX,MX,MX,Stage III,1
+C3N-01648,Male,69,White,G2,No,T2a,NX,MX,M0,Stage II,1
+C3N-01649,Male,51,White,G2,No,T3a,NX,M1,M0,Stage III,1
+C3N-01651,Male,58,White,G3,No,T2a,NX,MX,MX,Stage II,1
+C3N-01808,Male,47,White,G2,No,T1b,NX,MX,MX,Stage I,1
+TCGA-A3-3306,Male,67,White,G3,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3307,Male,66,nan,G3,Yes,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-A3-3311,Male,57,nan,G2,No,T1,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3313,Male,59,Black or African American,G3,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3316,Male,57,White,G3,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-A3-3317,Male,67,nan,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-A3-3319,Male,70,White,G2,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3320,Female,52,White,G1,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3322,Male,51,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3323,Male,53,White,G1,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3324,Male,51,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3325,Male,52,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3326,Male,47,White,G1,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3328,Male,79,White,G2,Yes,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3329,Male,75,White,G2,Yes,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3331,Female,86,White,G2,No,T1,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3335,Male,41,White,G4,No,T2a,N0,[Not Available],M0,Stage II,1
+TCGA-A3-3336,Female,75,White,G4,Yes,T1,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3343,Male,79,White,G3,Yes,T2,N0,[Not Available],M0,Stage II,1
+TCGA-A3-3346,Male,68,White,G3,No,T1b,NX,[Not Available],M0,Stage I,0
+TCGA-A3-3347,Female,76,White,G2,No,T1b,N1,[Not Available],M0,Stage III,1
+TCGA-A3-3349,Female,34,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3351,Male,42,White,G2,No,T2a,N0,[Not Available],M0,Stage II,1
+TCGA-A3-3352,Male,74,White,G3,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-A3-3357,Male,62,White,G3,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-A3-3358,Female,57,White,G2,Yes,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3359,Female,82,White,G2,Yes,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3362,Female,60,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3365,Male,46,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3367,Male,72,White,G3,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3370,Female,48,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3372,Male,64,White,G2,No,T3,NX,[Not Available],M0,Stage III,1
+TCGA-A3-3374,Female,51,Black or African American,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3376,Male,51,Black or African American,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3378,Male,60,White,G3,No,T1,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3380,Male,54,Hispanic or Latino,G2,No,T1,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3382,Male,69,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3383,Male,52,White,G2,No,T1,NX,[Not Available],M0,Stage I,1
+TCGA-A3-3385,Female,46,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-A3-3387,Male,49,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-AK-3425,Male,68,White,G2,Yes,T1,N0,[Not Available],M0,Stage I,1
+TCGA-AK-3426,Male,37,White,G3,No,T3a,N1,[Not Available],M0,Stage III,1
+TCGA-AK-3427,Male,65,White,GX,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-AK-3428,Male,62,White,G2,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-AK-3429,Female,54,White,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-AK-3430,Male,61,White,G3,No,T3b,N1,[Not Available],M0,Stage III,1
+TCGA-AK-3431,Female,62,White,G3,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-AK-3433,Female,48,White,GX,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-AK-3434,Male,72,White,G2,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-AK-3436,Male,40,White,G2,No,T2,N0,[Not Available],M1,Stage IV,1
+TCGA-AK-3440,Male,58,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-AK-3443,Male,45,White,GX,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-AK-3444,Female,80,White,G2,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-AK-3445,Male,69,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-AK-3447,Male,83,White,G2,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-AK-3450,Female,85,White,G2,Yes,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-AK-3451,Male,48,White,G3,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-AK-3453,Female,58,White,G2,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-AK-3454,Male,84,White,G3,Yes,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-AK-3455,Female,71,White,G3,Yes,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-AK-3458,Male,48,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-AK-3460,Male,58,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-AK-3461,Male,72,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-AK-3465,Female,71,Black or African American,GX,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-B0-4688,Male,46,White,G4,No,T4,N0,[Not Available],M1,Stage IV,0
+TCGA-B0-4690,Male,65,White,G3,No,T4,N0,[Not Available],M1,Stage IV,0
+TCGA-B0-4691,Male,55,White,G3,No,T2,N0,[Not Available],M1,Stage IV,0
+TCGA-B0-4693,Female,72,White,G4,No,T3a,N0,[Not Available],M0,Stage III,0
+TCGA-B0-4694,Male,72,White,G4,No,T3b,NX,[Not Available],M0,Stage III,0
+TCGA-B0-4696,Male,58,White,G3,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-B0-4697,Female,46,White,G4,No,T3b,NX,[Not Available],M1,Stage IV,1
+TCGA-B0-4698,Male,75,White,G4,No,T4,NX,[Not Available],M0,Stage IV,0
+TCGA-B0-4699,Male,74,White,G4,No,T4,N0,[Not Available],M1,Stage IV,0
+TCGA-B0-4700,Male,60,White,G4,No,T4,NX,[Not Available],M1,Stage IV,1
+TCGA-B0-4701,Female,66,White,G3,No,T3a,N0,[Not Available],M1,Stage IV,0
+TCGA-B0-4703,Male,51,White,G4,No,T3a,N0,[Not Available],M1,Stage IV,0
+TCGA-B0-4707,Male,63,White,G4,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-B0-4712,Male,76,White,G3,Yes,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-B0-4713,Female,76,White,G2,No,T3b,NX,[Not Available],M0,Stage III,0
+TCGA-B0-4714,Male,81,White,G3,No,T3b,NX,[Not Available],M1,Stage IV,0
+TCGA-B0-4810,Male,47,White,G3,No,T3a,N1,[Not Available],M0,Stage III,1
+TCGA-B0-4811,Male,48,White,G3,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-B0-4814,Male,58,White,G3,No,T4,N0,[Not Available],M1,Stage IV,0
+TCGA-B0-4815,Male,65,White,G4,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-B0-4816,Male,49,White,G3,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-B0-4817,Male,81,White,G3,No,T3c,N0,[Not Available],M0,Stage III,1
+TCGA-B0-4818,Female,68,White,G3,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-B0-4821,Female,68,Asian,G3,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-B0-4822,Male,78,White,G4,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-B0-4823,Male,88,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-4824,Female,49,White,G3,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-4827,Female,77,White,G4,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-B0-4828,Male,79,White,G3,No,T2,NX,[Not Available],M1,Stage IV,0
+TCGA-B0-4833,Female,82,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-B0-4834,Male,49,White,G3,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-4836,Male,61,White,G3,No,T3b,NX,[Not Available],M1,Stage IV,1
+TCGA-B0-4837,Male,63,White,G3,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-B0-4838,Female,69,White,G3,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-B0-4839,Female,80,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-B0-4841,Male,63,White,G3,No,T2,NX,[Not Available],M1,Stage IV,0
+TCGA-B0-4842,Female,73,White,G4,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-B0-4843,Male,57,White,G3,No,T3a,N0,[Not Available],M0,Stage III,0
+TCGA-B0-4844,Male,60,White,G3,No,T3a,NX,[Not Available],M1,Stage IV,0
+TCGA-B0-4845,Male,70,White,G2,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-B0-4846,Male,52,White,G2,No,T3a,N0,[Not Available],M1,Stage IV,1
+TCGA-B0-4847,Male,60,White,G3,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-B0-4848,Male,54,White,G3,No,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-B0-4849,Male,51,White,G3,No,T3a,NX,[Not Available],M0,Stage III,0
+TCGA-B0-4852,Female,78,White,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-B0-4945,Female,75,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5075,Female,77,White,G2,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-B0-5077,Male,77,White,G3,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5080,Male,63,White,G3,No,T3a,N0,[Not Available],M1,Stage IV,0
+TCGA-B0-5081,Female,79,White,G2,No,T3b,N0,[Not Available],M0,Stage III,0
+TCGA-B0-5083,Male,63,White,G3,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5084,Male,33,White,G3,No,T3a,N1,[Not Available],M1,Stage IV,0
+TCGA-B0-5085,Female,76,White,G3,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-B0-5088,Male,53,White,G3,Yes,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5092,Female,53,White,G3,No,T1a,N0,[Not Available],M1,Stage IV,1
+TCGA-B0-5094,Male,62,White,G2,No,T3b,N0,[Not Available],M1,Stage IV,0
+TCGA-B0-5095,Male,81,White,G3,No,T3a,N0,[Not Available],M0,Stage III,0
+TCGA-B0-5096,Female,72,White,GX,No,T3a,N1,[Not Available],M0,Stage III,0
+TCGA-B0-5098,Female,53,Black or African American,G3,No,T1,NX,[Not Available],M0,Stage I,1
+TCGA-B0-5099,Female,88,White,G3,No,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-B0-5100,Male,72,Black or African American,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-B0-5102,Female,74,White,G3,No,T1,NX,[Not Available],M0,Stage I,1
+TCGA-B0-5104,Female,90,White,G2,No,T1,N0,[Not Available],M0,Stage I,0
+TCGA-B0-5106,Male,64,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5107,Female,65,White,G4,No,T2,N0,[Not Available],M1,Stage IV,1
+TCGA-B0-5109,Male,69,White,G4,No,T3b,N1,[Not Available],M0,Stage III,1
+TCGA-B0-5110,Female,71,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5400,Female,59,White,G4,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-B0-5690,Female,53,White,G1,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-B0-5691,Female,66,White,G3,Yes,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5692,Female,66,White,G3,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-B0-5693,Female,47,White,G2,Yes,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-B0-5694,Male,71,White,G3,Yes,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-B0-5695,Female,61,White,G2,Yes,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5696,Male,69,White,G4,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-B0-5697,Male,50,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5698,Male,77,Black or African American,G3,Yes,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5699,Male,53,White,G2,No,T1,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5700,Male,77,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5701,Male,65,White,G4,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-B0-5702,Male,71,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5705,Female,65,White,G2,No,T1,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5706,Male,45,White,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-B0-5707,Female,39,White,G3,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5709,Female,62,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-B0-5710,Male,57,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-B0-5711,Male,50,White,G3,No,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-B0-5712,Female,68,Black or African American,G3,No,T2,N0,[Not Available],M1,Stage IV,1
+TCGA-B0-5713,Female,75,White,G3,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-B0-5812,Male,53,White,G3,Yes,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-B2-4098,Female,72,Black or African American,G2,No,T1b,NX,[Not Available],M0,Stage I,0
+TCGA-B8-4143,Female,66,White,G3,No,T3a,N0,[Not Available],M1,Stage IV,1
+TCGA-B8-4146,Female,41,White,G2,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-B8-4148,Female,63,White,G3,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-B8-4153,Male,74,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-B8-A54D,Male,69,Black or African American,G2,No,T3a,NX,M0,MX,Stage III,1
+TCGA-B8-A54E,Female,62,Black or African American,G3,No,T1b,NX,M0,MX,Stage I,1
+TCGA-BP-4158,Male,69,White,G2,Yes,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4159,Male,70,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4160,Male,67,White,G2,Yes,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4161,Male,74,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4162,Female,65,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4163,Female,60,White,G3,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4164,Female,51,White,G2,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-BP-4165,Female,64,White,G1,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4167,Male,59,White,G2,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-BP-4169,Female,76,White,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-BP-4170,Female,72,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4173,Male,47,White,G3,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-BP-4174,Male,49,White,G3,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-BP-4176,Male,64,White,G2,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4177,Male,65,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4325,Female,64,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4326,Female,53,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4327,Female,75,White,G2,Yes,T2,N0,[Not Available],M0,Stage II,0
+TCGA-BP-4329,Male,75,White,G2,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4330,Female,60,Black or African American,G2,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4331,Male,52,White,G2,Yes,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4332,Male,36,White,G2,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4334,Male,56,White,G3,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4335,Female,65,White,G3,No,T3a,N0,[Not Available],M1,Stage IV,1
+TCGA-BP-4337,Female,76,White,G4,No,T3b,N0,[Not Available],M0,Stage III,0
+TCGA-BP-4338,Male,43,White,G3,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4340,Female,70,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4341,Male,67,White,G2,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-BP-4342,Male,79,White,G3,Yes,T2,N0,[Not Available],M0,Stage II,1
+TCGA-BP-4343,Male,64,White,G3,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4344,Female,75,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4345,Male,62,White,G3,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4346,Male,57,White,G3,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4347,Male,74,White,G2,No,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-BP-4349,Female,68,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4351,Female,51,White,G2,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4352,Female,74,White,G4,No,T3b,N0,[Not Available],M1,Stage IV,0
+TCGA-BP-4353,Male,61,White,G2,Yes,T1,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4354,Male,40,White,G4,No,T4,N1,[Not Available],M1,Stage IV,1
+TCGA-BP-4355,Female,59,White,G4,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-BP-4756,Female,62,Asian,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4758,Male,40,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4759,Male,50,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4760,Male,69,Black or African American,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4762,Male,42,White,G3,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4763,Female,79,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4765,Male,43,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4766,Female,43,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4768,Female,72,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4769,Male,63,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4770,Female,73,White,G4,No,T4,N0,[Not Available],M0,Stage IV,0
+TCGA-BP-4771,Male,62,White,G4,No,T3a,N0,[Not Available],M1,Stage IV,0
+TCGA-BP-4774,Female,57,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4775,Female,55,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4776,Male,52,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4777,Male,46,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4781,Male,78,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4784,Female,67,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4787,Female,59,White,G4,No,T3a,N0,[Not Available],M1,Stage IV,1
+TCGA-BP-4789,Male,48,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4790,Male,76,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4795,Female,74,White,G2,Yes,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4797,Male,34,White,G3,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4798,Male,74,White,G4,No,T3b,N0,[Not Available],M1,[Discrepancy],0
+TCGA-BP-4799,Male,70,White,G3,Yes,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4801,Male,57,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4804,Male,59,White,G2,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4959,Male,49,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4960,Male,46,White,G3,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-BP-4961,Male,47,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4962,Male,58,White,G2,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-BP-4963,Male,63,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4964,Female,54,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4965,Male,46,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4968,Male,40,White,G3,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4969,Female,63,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4970,Male,44,Asian,G3,No,T1a,N1,[Not Available],M0,Stage III,1
+TCGA-BP-4971,Male,40,White,G3,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4972,Female,43,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-BP-4973,Male,47,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-BP-4974,Male,58,White,G4,No,T3a,N0,[Not Available],M1,Stage IV,0
+TCGA-BP-4975,Male,40,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4976,Male,77,White,G3,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4977,Male,57,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4981,Female,75,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-BP-4982,Male,42,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4983,Female,67,Asian,G4,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-BP-4985,Male,72,White,G4,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-4986,Male,75,White,G3,Yes,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4987,Female,41,Asian,G2,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4988,Male,72,White,G2,Yes,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4991,Male,54,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4992,Male,66,White,G4,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4994,Male,54,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4995,Male,68,White,G3,Yes,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-BP-4998,Male,49,Asian,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-4999,Male,56,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5000,Male,40,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5001,Female,43,White,G2,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5004,Male,53,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5006,Male,61,White,G2,Yes,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-BP-5007,Male,45,White,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-BP-5008,Male,46,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5009,Male,52,White,G3,Yes,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5010,Male,63,White,G4,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-5168,Male,75,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5170,Male,55,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5173,Male,75,White,G2,No,T1a,NX,[Not Available],M0,Stage I,0
+TCGA-BP-5174,Female,45,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5175,Male,60,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5176,Female,78,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5178,Male,71,White,G4,Yes,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-BP-5180,Male,53,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5181,Female,58,White,G2,Yes,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5182,Male,56,White,G3,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-BP-5183,Male,57,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-BP-5184,Male,54,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5185,Male,56,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5186,Female,50,White,G2,No,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-BP-5187,Male,54,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5189,Male,60,White,G4,Yes,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5190,Male,61,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5191,Male,79,White,G2,Yes,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-BP-5192,Male,59,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5194,Male,39,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5195,Male,75,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5196,Male,53,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-BP-5198,Male,72,White,G3,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-BP-5199,Male,58,White,G4,Yes,T2,N0,[Not Available],M0,Stage II,1
+TCGA-BP-5200,Male,44,White,G4,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-BP-5201,Male,63,White,G4,Yes,T3b,N0,[Not Available],M1,Stage IV,1
+TCGA-CJ-4634,Female,60,White,G2,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-4635,Male,48,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-4636,Male,51,White,G3,Yes,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-CJ-4637,Female,52,White,G4,No,T2b,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-4638,Female,46,White,G4,No,T3a,N1,[Not Available],M1,Stage IV,1
+TCGA-CJ-4639,Female,49,White,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-CJ-4640,Male,49,White,G4,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-CJ-4641,Female,55,White,G4,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-4642,Male,47,White,G2,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-CJ-4643,Female,67,White,G3,No,T2b,N0,[Not Available],M0,Stage II,1
+TCGA-CJ-4644,Female,48,White,G3,No,T3a,N0,[Not Available],M1,Stage IV,0
+TCGA-CJ-4868,Male,42,White,G3,No,T3a,N0,[Not Available],M1,Stage IV,1
+TCGA-CJ-4869,Male,49,White,G2,No,T2,N1,[Not Available],M0,Stage III,1
+TCGA-CJ-4870,Female,58,Black or African American,G2,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4871,Male,63,White,G4,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-4872,Male,51,White,G4,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-CJ-4873,Female,85,White,G3,No,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-CJ-4874,Female,73,White,G3,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-CJ-4875,Male,67,White,G3,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-4876,Male,57,White,G3,No,T2b,N0,[Not Available],M0,Stage II,1
+TCGA-CJ-4878,Female,71,White,G2,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4881,Male,41,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4882,Male,57,Black or African American,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4884,Female,72,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4885,Male,64,White,G3,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-4886,Female,42,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-4887,Male,48,White,G3,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-4888,Male,59,White,G4,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-4889,Female,63,White,G4,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-4890,Male,72,White,G4,No,T3a,N0,[Not Available],M1,Stage IV,1
+TCGA-CJ-4891,Female,57,White,G4,Yes,T3c,N0,[Not Available],M0,Stage III,1
+TCGA-CJ-4892,Female,65,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-CJ-4893,Female,76,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-4894,Male,58,White,G3,Yes,T3a,N0,[Not Available],M0,Stage III,1
+TCGA-CJ-4895,Male,62,White,G4,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-4897,Female,79,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4899,Male,42,Asian,G2,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-4900,Female,69,White,G4,No,T4,N1,[Not Available],M1,Stage IV,1
+TCGA-CJ-4901,Male,47,White,G3,No,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4902,Male,61,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4903,Male,50,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-4904,Female,60,White,G3,Yes,T3a,N0,[Not Available],M1,Stage IV,1
+TCGA-CJ-4905,Female,62,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-4907,Male,58,White,G3,No,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4908,Male,38,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-4912,Male,61,White,G3,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-CJ-4913,Female,45,White,G4,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4916,Female,69,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-4918,Male,64,White,G4,No,T3a,N0,[Not Available],M1,Stage IV,0
+TCGA-CJ-4920,Female,64,White,G2,No,T1b,NX,[Not Available],M0,Stage I,0
+TCGA-CJ-4923,Female,63,White,G4,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-5671,Male,51,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-5672,Male,84,White,G3,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-5675,Male,70,White,G3,No,T2a,NX,[Not Available],M0,Stage II,1
+TCGA-CJ-5676,Male,47,White,G3,No,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-5677,Female,54,White,G4,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-5678,Male,62,Black or African American,G3,No,T2b,N0,[Not Available],M1,Stage IV,1
+TCGA-CJ-5679,Male,73,White,G4,No,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-5680,Female,65,White,G4,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-5681,Female,44,White,G3,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-5682,Male,60,White,G4,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-5683,Male,78,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-5684,Male,61,White,G2,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CJ-5686,Female,59,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-5689,Male,90,White,G4,Yes,T1b,NX,[Not Available],M0,Stage I,0
+TCGA-CJ-6027,Male,77,White,G4,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-6028,Male,58,White,G4,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CJ-6030,Male,65,White,G3,Yes,T1a,N0,[Not Available],M0,Stage I,1
+TCGA-CJ-6031,Male,54,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CJ-6032,Female,63,White,G3,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-CJ-6033,Female,54,White,G4,No,T3a,N0,[Not Available],M1,Stage IV,0
+TCGA-CW-5580,Female,73,White,G3,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CW-5581,Male,44,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CW-5583,Female,51,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CW-5584,Male,74,White,G3,No,T3b,N1,[Not Available],M0,Stage III,0
+TCGA-CW-5585,Male,51,White,G2,No,T3b,N0,[Not Available],M1,Stage IV,1
+TCGA-CW-5587,Female,62,White,G2,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-CW-5588,Female,78,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CW-5589,Male,52,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CW-5590,Male,51,White,G3,No,T3a,NX,[Not Available],M1,Stage IV,1
+TCGA-CW-5591,Male,56,White,G2,No,T3a,N0,[Not Available],M1,Stage IV,1
+TCGA-CW-6087,Male,61,White,G4,No,T3a,N1,[Not Available],M1,Stage IV,0
+TCGA-CW-6088,Male,60,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-CW-6090,Male,68,White,G3,No,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CW-6093,Male,73,White,G1,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CW-6096,Female,44,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CW-6097,Male,32,White,G4,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CZ-4853,Male,82,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CZ-4854,Male,68,White,G2,Yes,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-CZ-4857,Male,56,White,G3,No,T3a,N0,[Not Available],M1,Stage IV,1
+TCGA-CZ-4858,Male,39,White,G4,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-CZ-4859,Female,59,White,G2,No,T1,N0,[Not Available],M0,Stage I,1
+TCGA-CZ-4860,Male,60,White,G4,No,T4,NX,[Not Available],M1,Stage IV,0
+TCGA-CZ-4861,Male,63,White,G2,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-CZ-4862,Male,46,White,G2,Yes,T1b,NX,[Not Available],M0,Stage I,1
+TCGA-CZ-4863,Female,51,White,G3,No,T3b,N0,[Not Available],M0,Stage III,1
+TCGA-CZ-4864,Male,86,White,G3,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-CZ-4865,Female,70,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,0
+TCGA-CZ-4866,Female,79,White,G3,No,T1,NX,[Not Available],M0,Stage I,1
+TCGA-CZ-5451,Male,74,White,G3,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-CZ-5452,Male,69,White,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-CZ-5454,Male,63,White,G2,No,T2,N0,[Not Available],M1,Stage IV,1
+TCGA-CZ-5455,Male,63,White,G4,No,T3b,NX,[Not Available],M1,Stage IV,1
+TCGA-CZ-5456,Male,57,White,G3,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-CZ-5457,Male,62,White,G4,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CZ-5458,Male,43,White,G3,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CZ-5459,Male,63,White,G3,No,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-CZ-5460,Male,55,White,G2,No,T3b,NX,[Not Available],M1,Stage IV,1
+TCGA-CZ-5462,Male,83,White,G3,No,T1b,NX,[Not Available],M1,Stage IV,0
+TCGA-CZ-5463,Male,76,White,G2,No,T2,NX,[Not Available],M0,Stage II,1
+TCGA-CZ-5464,Male,69,White,G2,No,T3b,NX,[Not Available],M1,Stage IV,1
+TCGA-CZ-5465,Female,76,nan,G2,No,T3b,NX,[Not Available],M0,Stage III,1
+TCGA-CZ-5466,Male,67,nan,G2,No,T3a,NX,[Not Available],M0,Stage III,1
+TCGA-CZ-5467,Female,86,White,G4,No,T3a,N0,[Not Available],M0,Stage III,0
+TCGA-CZ-5469,Male,41,White,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-CZ-5982,Female,59,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-CZ-5984,Male,51,White,G3,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-CZ-5985,Male,58,White,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-CZ-5986,Male,61,White,G3,No,T1,N0,[Not Available],M0,Stage I,1
+TCGA-CZ-5987,Male,60,White,G2,No,T3b,NX,[Not Available],M1,Stage IV,1
+TCGA-CZ-5988,Male,38,White,G2,No,T1b,N0,[Not Available],M0,Stage I,1
+TCGA-CZ-5989,Male,60,White,G2,No,T2,N0,[Not Available],M0,Stage II,1
+TCGA-DV-5565,Male,59,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-DV-5566,Female,67,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-DV-5567,Female,40,Black or African American,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-DV-5568,Male,26,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-DV-5573,Male,41,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-DV-5574,Male,37,White,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-DV-5575,Female,52,White,G2,No,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-DV-5576,Female,55,Black or African American,G2,Yes,T1a,NX,[Not Available],M0,Stage I,1
+TCGA-DV-A4VX,Male,59,Black or African American,G4,No,T3b,N0,M1,MX,Stage IV,1
+TCGA-DV-A4VZ,Male,53,Black or African American,G2,No,T1a,NX,MX,MX,Stage I,1
+TCGA-DV-A4W0,Male,55,Black or African American,G3,Yes,T1b,NX,M0,MX,Stage I,1
+TCGA-EU-5904,Female,47,White,G1,No,T1,NX,[Not Available],M0,Stage I,1
+TCGA-G6-A5PC,Female,54,Black or African American,G4,No,T1b,N0,M1,M1,Stage IV,0
+TCGA-G6-A8L7,Female,81,Black or African American,G3,Yes,T1b,N0,MX,MX,Stage I,1
+TCGA-G6-A8L8,Female,62,Black or African American,G3,No,T1b,NX,MX,MX,Stage I,1
+C3L-02220,Female,73.0,Black or African American,G4,-1,T3a,N0,Unknown,M0,Stage III,1
+C3N-02439,Male,57.0,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3L-02556,Male,86.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3L-02201,Male,68.0,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3N-01091,Male,,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-02553,Male,57.0,White,G1,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-01655,Male,64.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3L-02842,Female,68.0,White,G4,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-02265,Female,56.0,White,G1,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3N-01080,Male,,White,G1,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-02352,Female,68.0,White,G3,-1,T1b,NX,Unknown,M0,Stage I,1
+C3N-01656,Male,69.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3N-01657,Male,75.0,White,G1,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-02763,Male,77.0,Asian,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3L-02364,Male,57.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-02248,Male,,Hispanic or Latino,G3,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3N-03019,Male,46.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3L-00970,Male,55.0,other,G3,-1,T3a,N0,M1,Unknown,Stage IV,1
+C3N-02577,Male,48.0,Asian,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage IV,1
+C3L-01676,Male,54.0,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage II,1
+C3L-02202,Male,62.0,White,G1,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-01081,Female,,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-01464,Male,79.0,White,G4,-1,T3a,NX,Unknown,Unknown,Stage III,1
+C3L-00968,Male,62.0,other,G4,-1,T3a,N0,M1,Unknown,Stage IV,1
+C3N-02264,Male,69.0,White,G1,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-02266,Male,56.0,White,G1,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-03018,Male,66.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3L-02841,Male,60.0,White,G4,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3N-01536,Male,65.0,other,G2,-1,T3a,N0,M0,Unknown,Stage III,1
+C3L-00976,Male,68.0,other,G4,-1,Unknown,Unknown,Unknown,Unknown,Stage IV,1
+C3N-01902,Male,64.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3N-01090,Male,,White,G1,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-00966,Female,60.0,other,G2,-1,T1a,N0,M0,M0,Stage I,1
+C3N-01077,Male,,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-00815,Female,79.0,White,G2,-1,T1a,NX,Unknown,Unknown,Stage I,1
+C3N-02431,Male,47.0,Asian,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3L-02551,Male,51.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3N-01806,Male,57.0,White,G4,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3N-00715,Male,,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3N-00721,Male,,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3N-01086,Male,,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-02208,Male,69.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-03020,Male,65.0,White,G1,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3L-01107,Male,44.0,Asian,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3L-00969,Male,41.0,other,G3,-1,T2a,NX,M1,Unknown,Stage IV,1
+C3N-01078,Female,,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-01681,Male,76.0,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3N-02332,Female,66.0,other,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3L-01951,Male,51.0,White,G2,-1,T1b,N0,Unknown,M0,Stage I,1
+C3N-02429,Male,42.0,Asian,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-02160,Male,,Asian,G2,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3N-02015,Male,55.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3L-01459,Female,69.0,White,G2,-1,T1a,NX,Unknown,M0,Stage I,1
+C3N-02761,Male,32.0,Asian,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-02723,Female,86.0,other,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage IV,0
+C3N-01088,Female,,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3N-02263,Female,69.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3L-01106,Female,51.0,Asian,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage II,0
+C3N-01654,Female,64.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3L-01869,Female,55.0,White,G2,-1,T3a,N0,M0,M0,Stage III,1
+C3N-01083,Female,,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-02346,Male,70.0,White,G4,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3L-01465,Male,67.0,White,G3,-1,T4,N0,Unknown,Unknown,Stage IV,1
+C3L-01976,Female,65.0,White,G2,-1,T1a,NX,Unknown,Unknown,Stage I,1
+C3N-01828,Female,68.0,other,G2,-1,T3a,N0,M1,Unknown,Stage IV,1
+C3N-01085,Female,,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-00789,Female,32.0,White,G2,-1,T1b,NX,Unknown,Unknown,Stage I,1
+C3L-01958,Male,62.0,White,G2,-1,T3a,NX,Unknown,Unknown,Stage III,1
+C3N-02224,Female,,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-01033,Male,70.0,other,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage II,1
+C3N-01082,Female,,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-01665,Male,68.0,White,G4,-1,T3a,NX,M0,M0,Stage III,1
+C3N-01905,Male,59.0,White,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3L-02211,Female,57.0,Black or African American,G1,-1,Unknown,Unknown,Unknown,Unknown,Stage I,0
+C3N-00647,Female,,White,G1,-1,Unknown,Unknown,Unknown,Unknown,Not Reported,0
+C3L-01462,Male,68.0,White,G2,-1,T1a,NX,Unknown,Unknown,Stage I,1
+C3L-00165,Male,48.0,White,G4,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3N-02811,Male,75.0,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3N-02262,Male,67.0,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
+C3L-02544,Female,58.0,White,G3,-1,Unknown,Unknown,Unknown,Unknown,Stage III,1
+C3L-01034,Male,68.0,other,G2,-1,Unknown,Unknown,Unknown,Unknown,Stage I,1
